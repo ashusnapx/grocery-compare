@@ -1,0 +1,150 @@
+{
+ "_note": "Same call for 110017 with x-geolocation {\"latitude\":\"28.5355\",\"longitude\":\"77.209\"} (Malviya Nagar, Delhi), as the site sends it, 2026-09-29. Only the fields the adapter reads are kept.",
+ "items": [
+  {
+   "uid": 13586,
+   "code": "TL5T",
+   "display_name": "Groceries-TL5T",
+   "department_name": "Groceries",
+   "is_accepting_order": true,
+   "address": {
+    "pincode": "110017",
+    "city": "DELHI"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TL5T_QC_0f36323c"
+     },
+     "delivery_promise": {
+      "message": "Delivery in 21 mins",
+      "eta_mins": 21
+     }
+    }
+   ]
+  },
+  {
+   "uid": 14307,
+   "code": "TXFV",
+   "display_name": "Electronics-GNG-TXFV",
+   "department_name": "Electronics",
+   "is_accepting_order": true,
+   "address": {
+    "pincode": "110017",
+    "city": "DELHI"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TXFV_QC_870c4f22"
+     },
+     "delivery_promise": {
+      "message": "Delivery Before 1:00 PM",
+      "eta_mins": 211
+     }
+    }
+   ]
+  },
+  {
+   "uid": 14682,
+   "code": "TNE5",
+   "display_name": "Electronics-GNG-TNE5",
+   "department_name": "Electronics",
+   "is_accepting_order": true,
+   "address": {
+    "pincode": "110017",
+    "city": "DELHI"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TNE5_QC_3fe2c9f5"
+     },
+     "delivery_promise": {
+      "message": "Delivery Before 1:00 PM",
+      "eta_mins": 211
+     }
+    }
+   ]
+  },
+  {
+   "uid": 14183,
+   "code": "TJW9",
+   "display_name": "Electronics-GNG-TJW9",
+   "department_name": "Electronics",
+   "is_accepting_order": true,
+   "address": {
+    "pincode": "110049",
+    "city": "DELHI"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TJW9_QC_4d43e242"
+     },
+     "delivery_promise": {
+      "message": "Delivery Before 1:00 PM",
+      "eta_mins": 211
+     }
+    }
+   ]
+  },
+  {
+   "uid": 3204,
+   "code": "8844",
+   "display_name": "Electronics-GNG-8844",
+   "department_name": "Electronics",
+   "is_accepting_order": true,
+   "address": {
+    "pincode": "110070",
+    "city": "DELHI"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8844_QC_1ad82749"
+     },
+     "delivery_promise": {
+      "message": "Delivery Before 1:00 PM",
+      "eta_mins": 211
+     }
+    }
+   ]
+  }
+ ]
+}

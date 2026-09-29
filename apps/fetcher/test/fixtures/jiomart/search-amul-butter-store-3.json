@@ -1,0 +1,927 @@
+{
+ "items": [
+  {
+   "type": "product",
+   "uid": 7537983,
+   "name": "Amul Pasteurised Butter 100 g",
+   "slug": "amul-pasteurised-butter-100-g-mffn7z-7537983",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 100,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.62/g",
+   "sizes": [
+    "100 G"
+   ],
+   "price": {
+    "effective": {
+     "min": 62,
+     "max": 62
+    },
+    "marked": {
+     "min": 63,
+     "max": 63
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 62,
+       "max": 62
+      },
+      "marked": {
+       "min": 63,
+       "max": 63
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900013871.jpg.21382a299d.jpg",
+     "type": "image",
+     "alt": "Amul Pasteurised Butter 100 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ],
+    "product-size": "100 g"
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7545970,
+   "name": "Amul Garlic & Herbs Buttery Spread 100 g (Carton)",
+   "slug": "amul-garlic-herbs-buttery-spread-100-g-carton-mffnbo-7545970",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 100,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.72/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 72,
+     "max": 72
+    },
+    "marked": {
+     "min": 75,
+     "max": 75
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 72,
+       "max": 72
+      },
+      "marked": {
+       "min": 75,
+       "max": 75
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/amul-garlic-herbs-buttery-spread-100-g-carton-0-20210721.jpg.2d1e2aac2b.jpg",
+     "type": "image",
+     "alt": "Amul Garlic & Herbs Buttery Spread 100 g (Carton)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7504992,
+   "name": "Delicious Fat Spread 500 g (Carton)",
+   "slug": "amul-delicious-fat-spread-500-g-carton-mffmso-7504992",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.20/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 99,
+     "max": 99
+    },
+    "marked": {
+     "min": 117,
+     "max": 117
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 99,
+       "max": 99
+      },
+      "marked": {
+       "min": 117,
+       "max": 117
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900102871.jpg.5bbf73c128.jpg",
+     "type": "image",
+     "alt": "Delicious Fat Spread 500 g (Carton)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7521113,
+   "name": "Delicious Fat Spread 100 g (Carton)",
+   "slug": "delicious-fat-spread-100-g-carton-mffn06-7521113",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 100,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.21/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 21,
+     "max": 21
+    },
+    "marked": {
+     "min": 25,
+     "max": 25
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 21,
+       "max": 21
+      },
+      "marked": {
+       "min": 25,
+       "max": 25
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900102861.jpg.b5afa0b0df.jpg",
+     "type": "image",
+     "alt": "Delicious Fat Spread 100 g (Carton)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7524623,
+   "name": "Mother Dairy Table Butter 500 g (Carton)",
+   "slug": "mother-dairy-table-butter-500-g-carton-mffn1r-7524623",
+   "sellable": true,
+   "brand": {
+    "name": "mother dairy"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.58/g",
+   "sizes": [
+    "500 G"
+   ],
+   "price": {
+    "effective": {
+     "min": 289,
+     "max": 289
+    },
+    "marked": {
+     "min": 310,
+     "max": 310
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 289,
+       "max": 289
+      },
+      "marked": {
+       "min": 310,
+       "max": 310
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/mother-dairy-table-butter-500-g-carton-0-20210701.jpg.29ebe58ef7.jpg",
+     "type": "image",
+     "alt": "Mother Dairy Table Butter 500 g (Carton)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ],
+    "product-size": "500 g"
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7520548,
+   "name": "Amul Cheese Block 200 g",
+   "slug": "amul-cheese-block-200-g-mffmzx-7520548",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 200,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.63/g",
+   "sizes": [
+    "200 G"
+   ],
+   "price": {
+    "effective": {
+     "min": 125,
+     "max": 125
+    },
+    "marked": {
+     "min": 129,
+     "max": 129
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 125,
+       "max": 125
+      },
+      "marked": {
+       "min": 129,
+       "max": 129
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900014011.jpg.69468b8087.jpg",
+     "type": "image",
+     "alt": "Amul Cheese Block 200 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Cheese, Paneer & Tofu"
+    ],
+    "l3-category": [
+     "Cheese"
+    ],
+    "product-size": "200 g"
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Cheese"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7520225,
+   "name": "Amul Mozzarella & Cheddar Diced Cheese Blend 200 g (Pack)",
+   "slug": "amul-mozzarella-cheddar-diced-cheese-blend-200-g-pack-mffmzt-7520225",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 200,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.60/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 120,
+     "max": 120
+    },
+    "marked": {
+     "min": 125,
+     "max": 125
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 120,
+       "max": 120
+      },
+      "marked": {
+       "min": 125,
+       "max": 125
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004913766621.jpg.6aa0de044c.jpg",
+     "type": "image",
+     "alt": "Amul Mozzarella & Cheddar Diced Cheese Blend 200 g (Pack)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Cheese, Paneer & Tofu"
+    ],
+    "l3-category": [
+     "Cheese"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Cheese"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7528163,
+   "name": "Amul Cheese Slices (Pack of 5) 100 g",
+   "slug": "amul-cheese-slices-100-g-pack-of-5-mffn3j-7528163",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 100,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.79/g",
+   "sizes": [
+    "100 G"
+   ],
+   "price": {
+    "effective": {
+     "min": 79,
+     "max": 79
+    },
+    "marked": {
+     "min": 82,
+     "max": 82
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 79,
+       "max": 79
+      },
+      "marked": {
+       "min": 82,
+       "max": 82
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900079921.jpg.acf7626b22.jpg",
+     "type": "image",
+     "alt": "Amul Cheese Slices (Pack of 5) 100 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Cheese, Paneer & Tofu"
+    ],
+    "l3-category": [
+     "Cheese"
+    ],
+    "product-size": "100 g"
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Cheese"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7531967,
+   "name": "Amul Cheese Cubes 1 kg (Carton)",
+   "slug": "amul-cheese-cubes-1-kg-carton-mffn58-7531967",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "585.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 585,
+     "max": 585
+    },
+    "marked": {
+     "min": 610,
+     "max": 610
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 585,
+       "max": 585
+      },
+      "marked": {
+       "min": 610,
+       "max": 610
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004901064531.jpg.6f867bc16c.jpg",
+     "type": "image",
+     "alt": "Amul Cheese Cubes 1 kg (Carton)"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Cheese, Paneer & Tofu"
+    ],
+    "l3-category": [
+     "Cheese"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Cheese"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7512462,
+   "name": "Amul Processed Cheddar Cheese Cubes 200 g",
+   "slug": "amul-processed-cheddar-cheese-cubes-200-g-mffmw5-7512462",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 200,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.65/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 130,
+     "max": 130
+    },
+    "marked": {
+     "min": 135,
+     "max": 135
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 130,
+       "max": 130
+      },
+      "marked": {
+       "min": 135,
+       "max": 135
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900014021.jpg.ac7ec70a4f.jpg",
+     "type": "image",
+     "alt": "Amul Processed Cheddar Cheese Cubes 200 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Cheese, Paneer & Tofu"
+    ],
+    "l3-category": [
+     "Cheese"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Cheese"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7539646,
+   "name": "Amul Fresh Cream 1 L",
+   "slug": "amul-fresh-cream-1-l-mffn8q-7539646",
+   "sellable": true,
+   "brand": {
+    "name": "amul"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "L",
+   "net_quantity": "248.00/L",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 248,
+     "max": 248
+    },
+    "marked": {
+     "min": 250,
+     "max": 250
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 248,
+       "max": 248
+      },
+      "marked": {
+       "min": 250,
+       "max": 250
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004900015401.jpg.3f9e020c65.jpg",
+     "type": "image",
+     "alt": "Amul Fresh Cream 1 L"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Milk Powder & Cream"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Milk Powder & Cream"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7543374,
+   "name": "Milky Mist Unsalted Cooking Butter 500 g",
+   "slug": "milky-mist-unsalted-cooking-butter-500-g-mffnah-7543374",
+   "sellable": true,
+   "brand": {
+    "name": "Milky Mist"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.73/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 367,
+     "max": 367
+    },
+    "marked": {
+     "min": 400,
+     "max": 400
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 367,
+       "max": 367
+      },
+      "marked": {
+       "min": 400,
+       "max": 400
+      }
+     },
+     "store_id": 3,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902496131.jpg.d6df272ef7.jpg",
+     "type": "image",
+     "alt": "Milky Mist Unsalted Cooking Butter 500 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Fresh"
+    ],
+    "l2-category": [
+     "Milk & Milk Products"
+    ],
+    "l3-category": [
+     "Butter & Margarine"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Butter & Margarine"
+    }
+   },
+   "store_ids": [
+    3
+   ]
+  }
+ ],
+ "page": {
+  "has_previous": false,
+  "has_next": true,
+  "item_total": 195,
+  "type": "cursor",
+  "next_id": "2"
+ }
+}

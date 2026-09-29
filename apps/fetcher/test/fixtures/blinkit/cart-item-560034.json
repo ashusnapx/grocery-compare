@@ -1,0 +1,160 @@
+{
+ "_note": "Trimmed from POST blinkit.com/v5/carts with one item (Spring Onion 250 g, product 355012, Rs 21) at Koramangala, 2026-09-29 ~09:01 IST, logged out. bill_widget_lines is the Bill Details widget the page renders, reduced to its texts: Rs 21 + delivery Rs 25 + handling Rs 2 = Rs 48, with NO small-cart line although surge_charge_v2 carries small_cart_fee 15 / small_cart_mov 99.",
+ "cart_data": {
+  "merchant_details": {
+   "id": 40076
+  },
+  "bill_details": {
+   "total_cost": 21,
+   "delivery_charge": 25,
+   "additional_charge": 2,
+   "bill_total": 48,
+   "free_delivery_mov": 250,
+   "surge_charge_v2": {
+    "surge_amount": 0,
+    "is_graded_mec_fe_surge_enabled": false,
+    "fe_mec_type": "",
+    "manual_triggered_rain": false,
+    "mec_surge_config_source": "store_config",
+    "mov": 0,
+    "picker_mec_type": "",
+    "source": "",
+    "small_cart_mov": 99,
+    "is_mec_picker_surge_enabled": true,
+    "rain_device": null,
+    "checkouts_block_mov": 0,
+    "rain_coverage": 0,
+    "type": "",
+    "small_cart_fee": 15,
+    "striked_off_amount": 0
+   },
+   "flat_delivery_charge_attributes": {
+    "next_construct_delivery_charge": 0,
+    "min_amount": 0,
+    "assignment_info": {
+     "assignment_tag": "mov_99|dc_25_0",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "variation_id": -1,
+    "flat_delivery_charge": 25,
+    "required_amount_for_next_discount": 79,
+    "free_delivery_mov": 99,
+    "striked_off_delivery_charge": 0,
+    "graded_delivery_charge_constructs": [
+     {
+      "max_amount": 99,
+      "delivery_charge": 25,
+      "striked_off_amount": 0,
+      "min_amount": 0
+     },
+     {
+      "max_amount": 1000,
+      "delivery_charge": 0,
+      "striked_off_amount": 12,
+      "min_amount": 99
+     }
+    ]
+   }
+  },
+  "additional_charges": [
+   {
+    "tax_amount": null,
+    "total_amount": null,
+    "charge_id": 3,
+    "amount": 2,
+    "meta": {
+     "assignment_info": {
+      "assignment_tag": "mov|hc_2",
+      "assignment_type": "control",
+      "user_group_tags": []
+     },
+     "variation": [
+      {
+       "amount": 2,
+       "mov": 0,
+       "strike_off_amount": 0
+      }
+     ]
+    },
+    "name": null
+   }
+  ],
+  "shipments": [
+   {
+    "bill_details": {
+     "charges": [
+      {
+       "amount": 2,
+       "charge_id": 3,
+       "name": "eco_friendly_packaging_cost"
+      },
+      {
+       "amount": 25,
+       "charge_id": 13,
+       "name": "delivery_charge"
+      }
+     ],
+     "total_charges": 27,
+     "bill_total": 48
+    }
+   }
+  ]
+ },
+ "page_meta": {
+  "custom_data": {
+   "platform_charges_data": {
+    "small_cart_charge": {},
+    "handling_charge": {
+     "assignment_tag": "mov|hc_2",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "convenience_charge": {},
+    "delivery_charge": {
+     "assignment_tag": "mov_99|dc_25_0",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "night_charge": {}
+   }
+  }
+ },
+ "bill_widget_lines": [
+  {
+   "id": "bill_details",
+   "left": "Bill details",
+   "right": null
+  },
+  {
+   "id": "items_total",
+   "left": "Items total",
+   "right": "~~{grey-700|₹26}~~ ₹21"
+  },
+  {
+   "id": "delivery_charge",
+   "left": "Delivery charge",
+   "right": "₹25",
+   "tooltip": [
+    "₹25 for orders **below** ₹99",
+    "₹0 for orders **above** ₹99"
+   ]
+  },
+  {
+   "id": "packaging_charge",
+   "left": "Handling charge",
+   "right": "₹2",
+   "tooltip": [
+    "For proper handling and ensuring high quality quick-deliveries"
+   ]
+  },
+  {
+   "id": "bill_total",
+   "left": "Grand total",
+   "right": "₹48",
+   "tooltip": [
+    "Amount is inclusive of GST. For detailed breakup, please refer your tax invoice."
+   ]
+  }
+ ]
+}

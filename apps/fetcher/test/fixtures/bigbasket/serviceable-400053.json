@@ -1,0 +1,18 @@
+{
+ "serviceable_ecs_info": {
+  "bbnow": {
+   "serviceable": "bb2.0"
+  },
+  "bb-b2c": {
+   "serviceable": "bb2.0"
+  }
+ },
+ "places_info": {
+  "lat": 19.1364,
+  "lng": 72.8296,
+  "area": "Shastri Nagar, Andheri West",
+  "city": "Mumbai",
+  "state": "Maharashtra",
+  "pincode": "400053"
+ }
+}

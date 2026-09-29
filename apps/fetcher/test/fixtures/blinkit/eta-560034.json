@@ -1,0 +1,164 @@
+{
+ "eta_in_minutes": 13,
+ "title": "Delivery in 13 minutes",
+ "update_eta_action": {
+  "type": "update_eta",
+  "update_eta": {
+   "eta_map_v2": {
+    "35940": {
+     "instant": {
+      "eta": 10,
+      "asset_id": "0"
+     }
+    },
+    "37746": {
+     "installation_fan_installation": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "large_order": {
+      "eta": 9,
+      "asset_id": "0"
+     },
+     "payment_mode_cash_on_delivery": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_doctor": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_otx": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_pharmacist": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_rx": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_general_medicine": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_preapproved": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_psychiatry": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "super_longtail": {
+      "eta": 8,
+      "asset_id": "0"
+     }
+    },
+    "40076": {
+     "express": {
+      "eta": 13,
+      "asset_id": "0"
+     },
+     "installation_fan_installation": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "large_order": {
+      "eta": 19,
+      "asset_id": "1"
+     },
+     "payment_mode_cash_on_delivery": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_doctor": {
+      "eta": 17,
+      "asset_id": "1"
+     },
+     "pharma_otx": {
+      "eta": 15,
+      "asset_id": "0"
+     },
+     "pharma_pharmacist": {
+      "eta": 15,
+      "asset_id": "0"
+     },
+     "pharma_rx": {
+      "eta": 17,
+      "asset_id": "1"
+     },
+     "pharma_rx_general_medicine": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_preapproved": {
+      "eta": 15,
+      "asset_id": "0"
+     },
+     "pharma_rx_psychiatry": {
+      "eta": 17,
+      "asset_id": "1"
+     },
+     "unicorn": {
+      "eta": 13,
+      "asset_id": "0"
+     }
+    },
+    "45326": {
+     "installation_fan_installation": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "large_order": {
+      "eta": 13,
+      "asset_id": "0"
+     },
+     "longtail": {
+      "eta": 8,
+      "asset_id": "0"
+     },
+     "payment_mode_cash_on_delivery": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_doctor": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_otx": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_pharmacist": {
+      "eta": 10,
+      "asset_id": "0"
+     },
+     "pharma_rx": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_general_medicine": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_preapproved": {
+      "eta": 30,
+      "asset_id": "1"
+     },
+     "pharma_rx_psychiatry": {
+      "eta": 30,
+      "asset_id": "1"
+     }
+    }
+   },
+   "merchant_info": {
+    "type": "express",
+    "id": "40076",
+    "eta_identifier": "express"
+   }
+  }
+ }
+}

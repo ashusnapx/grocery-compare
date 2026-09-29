@@ -1,0 +1,22 @@
+node_modules/
+.next/
+out/
+dist/
+coverage/
+*.tsbuildinfo
+next-env.d.ts
+
+# env files hold the fetcher secret and affiliate ids
+.env
+.env.*
+!.env.example
+
+.DS_Store
+*.log
+!docs/research/**/*.log
+
+# local browser profiles used by the fetcher's browser transport
+apps/fetcher/.browser-profiles/
+
+# OCR language models tesseract downloads at runtime
+*.traineddata

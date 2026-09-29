@@ -1,0 +1,903 @@
+{
+ "items": [
+  {
+   "uid": 3211,
+   "code": "8882",
+   "display_name": "Electronics-GNG-8882",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8882_QC_07f41635",
+      "distance": 747.3491,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560034",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9363,
+    "longitude": 77.628
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 747.3491
+  },
+  {
+   "uid": 13845,
+   "code": "TM3D",
+   "display_name": "Groceries-TM3D",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T09:31:00Z",
+    "max": "2026-09-27T09:31:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TM3D_QC_541d7f76",
+      "distance": 840.8036,
+      "dynamic_delivery": {
+       "m1": 24.0,
+       "t1": null,
+       "t2": null,
+       "t3": null,
+       "weather_buffer_pct": 0.0,
+       "store_buffer": 6.0,
+       "lower_threshold": 10.0,
+       "upper_threshold": 60.0,
+       "weather_id": 3,
+       "weather_message": "Partly sunny",
+       "t1_ttl_min": null,
+       "t2_ttl_min": null,
+       "t3_ttl_min": null,
+       "eta_min_ttl": null
+      }
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T09:31:00Z",
+      "max": "2026-09-27T09:31:00Z",
+      "message": "Delivery in 30 mins",
+      "eta_mins": 30,
+      "model_resp": true,
+      "show_eta": true
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560083",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.93779,
+    "longitude": 77.61771
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 6,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 23,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Groceries",
+   "distance": 840.8036
+  },
+  {
+   "uid": 16622,
+   "code": "T2ZN",
+   "display_name": "T2ZN-Fashion-Yousta",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": null,
+      "distance": 903.0307,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560034",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.93648,
+    "longitude": 77.61575
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 10,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 19,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Fashion",
+   "distance": 903.0307
+  },
+  {
+   "uid": 14141,
+   "code": "T9OE",
+   "display_name": "Electronics-GNG-T9OE",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "T9OE_QC_1f9b1c0a",
+      "distance": 2493.4242,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560102",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9123,
+    "longitude": 77.6337
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 2493.4242
+  },
+  {
+   "uid": 217198,
+   "code": "TJI9",
+   "display_name": "Electronics-TJI9-QC",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TJI9_QC_1a19fc01",
+      "distance": 4139.0243,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560068",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.897,
+    "longitude": 77.6357
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 4139.0243
+  },
+  {
+   "uid": 3165,
+   "code": "8717",
+   "display_name": "Electronics-GNG-8717",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8717_QC_72b8754b",
+      "distance": 4158.8442,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560011",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9387,
+    "longitude": 77.5849
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 4158.8442
+  },
+  {
+   "uid": 3213,
+   "code": "8883",
+   "display_name": "Electronics-GNG-8883",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8883_QC_719e48d6",
+      "distance": 4635.07,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560078",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9103,
+    "longitude": 77.5862
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 4635.07
+  },
+  {
+   "uid": 14155,
+   "code": "TML2",
+   "display_name": "Electronics-GNG-TML2",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TML2_QC_a783032d",
+      "distance": 4708.2067,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560008",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9704,
+    "longitude": 77.641
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 4708.2067
+  },
+  {
+   "uid": 14134,
+   "code": "TOD3",
+   "display_name": "Electronics-GNG-TOD3",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TOD3_QC_62aff092",
+      "distance": 5190.1347,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560103",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9191,
+    "longitude": 77.6687
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 5190.1347
+  },
+  {
+   "uid": 14674,
+   "code": "TNQ1",
+   "display_name": "Electronics-GNG-TNQ1",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "TNQ1_QC_5a07acc1",
+      "distance": 5586.2024,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560102",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.8948,
+    "longitude": 77.6573
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 5586.2024
+  },
+  {
+   "uid": 3217,
+   "code": "8890",
+   "display_name": "Electronics-GNG-8890",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8890_QC_88a3dcfc",
+      "distance": 6507.0532,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560018",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.9548,
+    "longitude": 77.5674
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 6507.0532
+  },
+  {
+   "uid": 3215,
+   "code": "8886",
+   "display_name": "Electronics-GNG-8886",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "8886_QC_795f5c2e",
+      "distance": 6582.3341,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560076",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.8793,
+    "longitude": 77.595
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 6582.3341
+  },
+  {
+   "uid": 3126,
+   "code": "7686",
+   "display_name": "Electronics-GNG-7686",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "7686_QC_cc7a8856",
+      "distance": 7100.4017,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560052",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.989,
+    "longitude": 77.5932
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 7100.4017
+  },
+  {
+   "uid": 3118,
+   "code": "6835",
+   "display_name": "Electronics-GNG-6835",
+   "priority": 1,
+   "processing_time": 0,
+   "promise": {
+    "min": "2026-09-27T10:01:00Z",
+    "max": "2026-09-27T11:01:00Z"
+   },
+   "journey_wise_promise": [
+    {
+     "journey": "quickcommerce",
+     "meta": {
+      "zone": "south",
+      "mbv_config": [
+       {
+        "department": "Groceries",
+        "min_basket_value": 99
+       }
+      ],
+      "polygon_id": "6835_QC_e26ba238",
+      "distance": 8271.3144,
+      "dynamic_delivery": {}
+     },
+     "delivery_promise": {
+      "min": "2026-09-27T10:01:00Z",
+      "max": "2026-09-27T11:01:00Z",
+      "message": "Delivery in 1 to 2 hrs",
+      "eta_mins": 120,
+      "model_resp": false,
+      "show_eta": null
+     }
+    }
+   ],
+   "seller_id": 1,
+   "address": {
+    "address2": "",
+    "pincode": "560100",
+    "city": "BENGALURU",
+    "country": "India",
+    "state": "KARNATAKA",
+    "country_code": "IN",
+    "latitude": 12.8653,
+    "longitude": 77.6564
+   },
+   "timings": {
+    "open": true,
+    "opening": {
+     "hour": 11,
+     "minute": 0
+    },
+    "closing": {
+     "hour": 20,
+     "minute": 0
+    }
+   },
+   "is_accepting_order": true,
+   "department_name": "Electronics",
+   "distance": 8271.3144
+  }
+ ],
+ "promise": {
+  "min": "2026-09-27T10:01:00Z",
+  "max": "2026-09-27T11:01:00Z"
+ },
+ "query_params": {
+  "store_ids": [
+   "3211",
+   "13845",
+   "16622",
+   "14141",
+   "217198",
+   "3165",
+   "3213",
+   "14155",
+   "14134",
+   "14674",
+   "3217",
+   "3215",
+   "3126",
+   "3118"
+  ]
+ },
+ "page": {
+  "current": 1,
+  "has_previous": false,
+  "has_next": false,
+  "type": "number",
+  "size": 14,
+  "item_total": 14
+ }
+}

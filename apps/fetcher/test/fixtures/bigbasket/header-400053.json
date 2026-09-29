@@ -1,0 +1,50 @@
+{
+ "selected_address_id": "1000001",
+ "sa_list": [
+  {
+   "sa_id": 17830,
+   "eta": "9 mins"
+  },
+  {
+   "sa_id": 31353,
+   "eta": "32 mins"
+  },
+  {
+   "sa_id": 16221,
+   "eta": "2 hrs"
+  },
+  {
+   "sa_id": 15950,
+   "eta": "5 mins"
+  }
+ ],
+ "addresses": [
+  {
+   "lat": 19.1364,
+   "lng": 72.8296,
+   "pin": 400053,
+   "area": "Shastri Nagar, Andheri West",
+   "city_name": "Mumbai",
+   "city_id": 4,
+   "is_partial": true,
+   "address_type": 1,
+   "id": "1000001"
+  }
+ ],
+ "additional_cookies": {
+  "_bb_pin_code": "400053",
+  "_bb_sa_ids": "15950,17830,31353",
+  "_bb_cda_sa_info": "djIuY2RhX3NhLjEwLjE1OTUwLDE3ODMwLDMxMzUz",
+  "is_global": "0"
+ },
+ "next_available_slots": [
+  {
+   "sa_id": 15950,
+   "short_eta": "5 mins",
+   "eta": 5,
+   "eta_message": "Get it in 5 mins ",
+   "door_status": 1,
+   "store_eta": "14 mins"
+  }
+ ]
+}

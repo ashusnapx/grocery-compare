@@ -1,0 +1,32 @@
+{
+ "_note": "Trimmed from GET www.bigbasket.com/ui-svc/v1/serviceable/?lat=26.853&lng=75.805&send_all_serviceability=true (Malviya Nagar, Jaipur 302017), guest session, 2026-09-29 ~09:31 IST. No bbnow entry at all, and bb-b2c (scheduled BigBasket) is \"NA\": no BigBasket delivery serves this point.",
+ "serviceable_ecs_info": {
+  "bb-b2b-pharmacy": {
+   "serviceable": "bb2.0"
+  },
+  "bb-b2b-ihcl": {
+   "serviceable": "bb2.0"
+  },
+  "bb-b2b-kirana": {
+   "serviceable": "bb2.0"
+  },
+  "bb-b2b-institutional": {
+   "serviceable": "bb2.0"
+  },
+  "bb-b2c": {
+   "serviceable": "NA"
+  },
+  "tataneu-b2c": {
+   "serviceable": "NA"
+  }
+ },
+ "places_info": {
+  "lat": 26.853,
+  "lng": 75.805,
+  "area": "D-Block, Malviya Nagar",
+  "city": "Jaipur",
+  "state": "Rajasthan",
+  "pincode": "302017"
+ },
+ "reason": "bb1_not_serviceable_due_to_mach"
+}

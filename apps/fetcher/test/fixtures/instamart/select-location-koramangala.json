@@ -1,0 +1,82 @@
+{
+ "_note": "Trimmed from POST www.swiggy.com/api/instamart/home/select-location/v2 at 12.9352,77.6245, 2026-09-27.",
+ "data": {
+  "statusMessage": "",
+  "cards": [],
+  "communication": null,
+  "configs": {
+   "IM_PAGE_CONFIGS": {
+    "configInfo": [
+     {
+      "card": {
+       "@type": "type.googleapis.com/swiggy.im.v1.PageConfigs",
+       "serviceabilityStatus": "SERVICEABLE",
+       "serviceabilityType": "FAST_SERVICEABLE",
+       "layoutId": 4987,
+       "podDetails": {
+        "podId": "1396284",
+        "cartConstraints": {
+         "maxAllowedItemCount": 200,
+         "maxAllowedWeightInGrams": 40000,
+         "maxAllowedVolumeInCc": 100000,
+         "bulkCartConstraints": {
+          "minItemCount": 200,
+          "minWeightInGrams": 15000
+         }
+        },
+        "priority": "PRIORITY_INVALID",
+        "serviceabilityDetails": null,
+        "bucketId": "",
+        "itemFulfilmentPriority": 0
+       },
+       "podDetailsList": [
+        {
+         "podId": "1396284",
+         "cartConstraints": {
+          "maxAllowedItemCount": 200,
+          "maxAllowedWeightInGrams": 40000,
+          "maxAllowedVolumeInCc": 100000,
+          "bulkCartConstraints": {
+           "minItemCount": 200,
+           "minWeightInGrams": 15000
+          }
+         },
+         "priority": "PRIORITY_PRIMARY",
+         "serviceabilityDetails": {
+          "serviceabilityStatus": "SERVICEABILITY_STATUS_SERVICEABLE",
+          "serviceabilityType": "SERVICEABILITY_TYPE_FAST_SERVICEABLE",
+          "sla": {
+           "value": "5",
+           "unit": "MINS",
+           "backgroundColor": "#B6B6B6",
+           "textColor": "text_color_low_emphasis",
+           "icon": "",
+           "isItemLevelSlaEnabled": true
+          }
+         },
+         "bucketId": "",
+         "itemFulfilmentPriority": 0
+        }
+       ]
+      }
+     }
+    ]
+   },
+   "IM_TOOL_BAR": {
+    "configInfo": [
+     {
+      "card": {
+       "@type": "type.googleapis.com/swiggy.im.v1.ToolBar",
+       "sla": {
+        "value": "5",
+        "unit": "Mins"
+       }
+      }
+     }
+    ]
+   }
+  },
+  "statusCode": 0
+ },
+ "statusCode": 0
+}

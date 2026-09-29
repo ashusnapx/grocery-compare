@@ -1,0 +1,100 @@
+{
+ "_note": "Trimmed from POST blinkit.com/v5/carts with body {\"items\":[]}, lat/lon headers 19.1364,72.8296 (Andheri West 400053), 2026-09-29 ~09:05 IST, logged out. Only the fee fields are kept.",
+ "cart_data": {
+  "merchant_details": {
+   "id": 47074
+  },
+  "bill_details": {
+   "total_cost": 0,
+   "delivery_charge": 25,
+   "additional_charge": 2,
+   "bill_total": 27,
+   "free_delivery_mov": 800,
+   "surge_charge_v2": {
+    "surge_amount": 0,
+    "striked_off_amount": 0,
+    "assignment": {
+     "assignment_tag": "",
+     "assignment_type": "",
+     "user_group_tags": []
+    },
+    "mov": 0,
+    "source": "no_surge",
+    "checkouts_block_mov": 0,
+    "type": "FLAT",
+    "small_cart_fee": 0,
+    "small_cart_mov": 0
+   },
+   "flat_delivery_charge_attributes": {
+    "next_construct_delivery_charge": 0,
+    "min_amount": 0,
+    "assignment_info": {
+     "assignment_tag": "mov_99|dc_25_0",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "variation_id": -1,
+    "flat_delivery_charge": 25,
+    "required_amount_for_next_discount": 100,
+    "free_delivery_mov": 99,
+    "striked_off_delivery_charge": 0,
+    "graded_delivery_charge_constructs": [
+     {
+      "max_amount": 99,
+      "delivery_charge": 25,
+      "striked_off_amount": 0,
+      "min_amount": 0
+     },
+     {
+      "max_amount": 1000,
+      "delivery_charge": 0,
+      "striked_off_amount": 12,
+      "min_amount": 99
+     }
+    ]
+   }
+  },
+  "additional_charges": [
+   {
+    "tax_amount": null,
+    "total_amount": null,
+    "charge_id": 3,
+    "amount": 2,
+    "meta": {
+     "assignment_info": {
+      "assignment_tag": "mov|hc_2",
+      "assignment_type": "control",
+      "user_group_tags": []
+     },
+     "variation": [
+      {
+       "amount": 2,
+       "mov": 0,
+       "strike_off_amount": 0
+      }
+     ]
+    },
+    "name": null
+   }
+  ]
+ },
+ "page_meta": {
+  "custom_data": {
+   "platform_charges_data": {
+    "small_cart_charge": {},
+    "handling_charge": {
+     "assignment_tag": "mov|hc_2",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "convenience_charge": {},
+    "delivery_charge": {
+     "assignment_tag": "mov_99|dc_25_0",
+     "assignment_type": "control",
+     "user_group_tags": []
+    },
+    "night_charge": {}
+   }
+  }
+ }
+}

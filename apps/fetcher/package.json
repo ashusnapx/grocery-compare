@@ -1,0 +1,29 @@
+{
+  "name": "@gc/fetcher",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "The only process that talks to grocery platforms: store lookup, search, transports, caching and rate limits.",
+  "exports": {
+    "./inline": "./src/inline.ts"
+  },
+  "scripts": {
+    "dev": "tsx watch --clear-screen=false src/server.ts",
+    "start": "tsx src/server.ts",
+    "canary": "tsx src/canary.ts",
+    "coverage": "tsx src/coverage.ts",
+    "test": "vitest run",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@gc/engine": "*",
+    "impit": "^0.14.5",
+    "playwright": "^1.63.0",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20",
+    "tsx": "^4.23.15",
+    "vitest": "^3.2.7"
+  }
+}

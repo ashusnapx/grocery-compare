@@ -1,0 +1,208 @@
+{
+ "is_llm_flow": false,
+ "is_llm_timeout": false,
+ "tabs": [
+  {
+   "product_info": {
+    "products": [
+     {
+      "id": "104860",
+      "desc": "Pasteurised Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "100 g",
+      "absolute_url": "/pd/104860/amul-butter-pasteurised-100-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "63",
+        "prim_price": {
+         "sp": "63",
+         "rsp": "63"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 19224,
+       "fc_id": 1820
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/104860_10-amul-butter-pasteurised.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/104860_10-amul-butter-pasteurised.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "104864",
+        "desc": "Pasteurised Butter",
+        "w": "500 g",
+        "absolute_url": "/pd/104864/amul-butter-pasteurised-500-g-carton/",
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "230",
+          "prim_price": {
+           "sp": "230",
+           "rsp": "230"
+          }
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "40045943",
+      "desc": "Pasteurised Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "200 g",
+      "absolute_url": "/pd/40045943/amul-butter-pasteurised-200-g-tub/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "130",
+        "prim_price": {
+         "sp": "130",
+         "rsp": "130"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 19224,
+       "fc_id": 1820
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40045943_1-amul-butter-pasteurised.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40045943_1-amul-butter-pasteurised.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40045943_1-amul-butter-pasteurised.jpg"
+       }
+      ],
+      "children": []
+     },
+     {
+      "id": "40006899",
+      "desc": "Unsalted Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "500 g",
+      "absolute_url": "/pd/40006899/amul-cooking-butter-unsalted-500-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "320",
+        "prim_price": {
+         "sp": "320",
+         "rsp": "320"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 19224,
+       "fc_id": 1820
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40006899_9-amul-cooking-butter-unsalted.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40006899_9-amul-cooking-butter-unsalted.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40006899_9-amul-cooking-butter-unsalted.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40069116",
+        "desc": "Unsalted Butter",
+        "w": "100 g",
+        "absolute_url": "/pd/40069116/amul-unsalted-butter-100-g-carton/",
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "48",
+          "prim_price": {
+           "sp": "48",
+           "rsp": "48"
+          }
+         }
+        }
+       }
+      ]
+     },
+     {
+      "id": "40018687",
+      "desc": "Garlic & Herbs Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "100 g",
+      "absolute_url": "/pd/40018687/amul-buttery-spread-garlic-herbs-100-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "75",
+        "prim_price": {
+         "sp": "75",
+         "rsp": "75"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 19224,
+       "fc_id": 1820
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40018687_2-amul-buttery-spread-garlic-herbs.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40018687_2-amul-buttery-spread-garlic-herbs.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40018687_2-amul-buttery-spread-garlic-herbs.jpg"
+       }
+      ],
+      "children": []
+     }
+    ]
+   }
+  }
+ ]
+}

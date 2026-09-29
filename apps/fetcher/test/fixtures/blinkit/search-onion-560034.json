@@ -1,0 +1,1217 @@
+{
+ "is_success": true,
+ "response": {
+  "snippets": [
+   {
+    "widget_type": "image_text_vr_type_header",
+    "data": {
+     "identity": {
+      "id": "product_container"
+     },
+     "title": {
+      "text": "Showing results for \"onion\""
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "530158"
+     },
+     "product_id": "530158",
+     "group_id": 104334,
+     "name": {
+      "text": "Onion (Eerulli)"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "1 kg"
+     },
+     "normal_price": {
+      "text": "₹66"
+     },
+     "mrp": {
+      "text": "₹75"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 50,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 530158,
+        "merchant_id": 40076,
+        "product_name": "Onion (Eerulli)",
+        "price": 66,
+        "mrp": 75,
+        "unit": "1 kg",
+        "inventory": 50,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+       }
+      }
+     },
+     "variant_list": [
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "530158"
+        },
+        "product_id": "530158",
+        "group_id": 104334,
+        "name": {
+         "text": "Onion (Eerulli)"
+        },
+        "brand_name": {
+         "text": "Freshbury"
+        },
+        "variant": {
+         "text": "1 kg"
+        },
+        "normal_price": {
+         "text": "₹66"
+        },
+        "mrp": {
+         "text": "₹75"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 50,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 530158,
+           "merchant_id": 40076,
+           "product_name": "Onion (Eerulli)",
+           "price": 66,
+           "mrp": 75,
+           "unit": "1 kg",
+           "inventory": 50,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Onion",
+         "brand": "Freshbury",
+         "product_id": "530158",
+         "price": 66,
+         "mrp": 75,
+         "state": "available"
+        }
+       }
+      },
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "532987"
+        },
+        "product_id": "532987",
+        "group_id": 104334,
+        "name": {
+         "text": "Onion Pack of 2 (Eerulli)"
+        },
+        "brand_name": {
+         "text": "Freshbury"
+        },
+        "variant": {
+         "text": "2 x 1 kg"
+        },
+        "normal_price": {
+         "text": "₹131"
+        },
+        "mrp": {
+         "text": "₹151"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 50,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/4e24f749-8a65-4a87-a562-7bc4bf49351f.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 532987,
+           "merchant_id": 40076,
+           "product_name": "Onion Pack of 2 (Eerulli)",
+           "price": 131,
+           "mrp": 151,
+           "unit": "2 x 1 kg",
+           "inventory": 50,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/4e24f749-8a65-4a87-a562-7bc4bf49351f.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Onion",
+         "brand": "Freshbury",
+         "product_id": "532987",
+         "price": 131,
+         "mrp": 151,
+         "state": "available"
+        }
+       }
+      }
+     ]
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Freshbury",
+      "product_id": "530158",
+      "price": 66,
+      "mrp": 75,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "355012"
+     },
+     "product_id": "355012",
+     "group_id": 1915728,
+     "name": {
+      "text": "Spring Onion (Eerulli Soppu)"
+     },
+     "variant": {
+      "text": "250 g"
+     },
+     "normal_price": {
+      "text": "₹21"
+     },
+     "mrp": {
+      "text": "₹26"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 12,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/c9ef1b7c-07e1-4f26-b008-cfa01c3b97db.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 355012,
+        "merchant_id": 40076,
+        "product_name": "Spring Onion (Eerulli Soppu)",
+        "price": 21,
+        "mrp": 26,
+        "unit": "250 g",
+        "inventory": 12,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/c9ef1b7c-07e1-4f26-b008-cfa01c3b97db.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Spring Onion",
+      "brand": "",
+      "product_id": "355012",
+      "price": 21,
+      "mrp": 26,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "595308"
+     },
+     "product_id": "595308",
+     "group_id": 2751509,
+     "name": {
+      "text": "Organically Grown - Onion (Eerulli)"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹69"
+     },
+     "mrp": {
+      "text": "₹80"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 12,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/3b76bfb9-031c-4ae8-bf4b-2906f035cf10.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 595308,
+        "merchant_id": 40076,
+        "product_name": "Organically Grown - Onion (Eerulli)",
+        "price": 69,
+        "mrp": 80,
+        "unit": "500 g",
+        "inventory": 12,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/3b76bfb9-031c-4ae8-bf4b-2906f035cf10.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Freshbury",
+      "product_id": "595308",
+      "price": 69,
+      "mrp": 80,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "803205"
+     },
+     "product_id": "803205",
+     "group_id": 2997808,
+     "name": {
+      "text": "Spring Onion by Origin Fresh"
+     },
+     "brand_name": {
+      "text": "Origin Fresh"
+     },
+     "variant": {
+      "text": "100 g"
+     },
+     "normal_price": {
+      "text": "₹59"
+     },
+     "mrp": {
+      "text": "₹67"
+     },
+     "merchant_id": "37746",
+     "merchant_type": "super_longtail",
+     "eta_identifier": "super_longtail",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 38,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/fb851dfeac524fa5891c751c2d74d4bf.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 803205,
+        "merchant_id": 37746,
+        "product_name": "Spring Onion by Origin Fresh",
+        "price": 59,
+        "mrp": 67,
+        "unit": "100 g",
+        "inventory": 38,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/fb851dfeac524fa5891c751c2d74d4bf.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Spring Onion",
+      "brand": "Origin Fresh",
+      "product_id": "803205",
+      "price": 59,
+      "mrp": 67,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "145447"
+     },
+     "product_id": "145447",
+     "group_id": 144312,
+     "name": {
+      "text": "Sambhar Onion (Eerulli)"
+     },
+     "variant": {
+      "text": "250 g"
+     },
+     "normal_price": {
+      "text": "₹42"
+     },
+     "mrp": {
+      "text": "₹48"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 9,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779793527760-82.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 145447,
+        "merchant_id": 40076,
+        "product_name": "Sambhar Onion (Eerulli)",
+        "price": 42,
+        "mrp": 48,
+        "unit": "250 g",
+        "inventory": 9,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1779793527760-82.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "",
+      "product_id": "145447",
+      "price": 42,
+      "mrp": 48,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "carousal_list_vr",
+    "data": {
+     "itemList": []
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "780338"
+     },
+     "product_id": "780338",
+     "group_id": 3033751,
+     "name": {
+      "text": "Organically Grown Sambar Onion by Bhoomi Farms"
+     },
+     "brand_name": {
+      "text": "Bhoomi Farms"
+     },
+     "variant": {
+      "text": "200 g"
+     },
+     "normal_price": {
+      "text": "₹69"
+     },
+     "mrp": {
+      "text": "₹84"
+     },
+     "merchant_id": "37746",
+     "merchant_type": "super_longtail",
+     "eta_identifier": "super_longtail",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 17,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1782982154430-105.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 780338,
+        "merchant_id": 37746,
+        "product_name": "Organically Grown Sambar Onion by Bhoomi Farms",
+        "price": 69,
+        "mrp": 84,
+        "unit": "200 g",
+        "inventory": 17,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1782982154430-105.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Bhoomi Farms",
+      "product_id": "780338",
+      "price": 69,
+      "mrp": 84,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "711550"
+     },
+     "product_id": "711550",
+     "group_id": 2634621,
+     "name": {
+      "text": "Organically Grown Sambhar Onion"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "250 g"
+     },
+     "normal_price": {
+      "text": "₹42"
+     },
+     "mrp": {
+      "text": "₹51"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 7,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/cb90e2e0-b408-42bd-a44f-648703a93dad.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 711550,
+        "merchant_id": 40076,
+        "product_name": "Organically Grown Sambhar Onion",
+        "price": 42,
+        "mrp": 51,
+        "unit": "250 g",
+        "inventory": 7,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/cb90e2e0-b408-42bd-a44f-648703a93dad.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Freshbury",
+      "product_id": "711550",
+      "price": 42,
+      "mrp": 51,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "image_text_vr_type_header",
+    "data": {
+     "identity": {
+      "id": "product_container"
+     },
+     "title": {
+      "text": "Showing related products"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "609555"
+     },
+     "product_id": "609555",
+     "group_id": 1937105,
+     "name": {
+      "text": "Organically Grown Tomato (Desi) (Tomaato)"
+     },
+     "brand_name": {
+      "text": "Bhoomi Farms"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹36"
+     },
+     "mrp": {
+      "text": "₹43"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 50,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/e3c73bd1-a0b8-4fa8-994d-0365272c8968.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 609555,
+        "merchant_id": 40076,
+        "product_name": "Organically Grown Tomato (Desi) (Tomaato)",
+        "price": 36,
+        "mrp": 43,
+        "unit": "500 g",
+        "inventory": 50,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/e3c73bd1-a0b8-4fa8-994d-0365272c8968.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Tomato",
+      "brand": "Bhoomi Farms",
+      "product_id": "609555",
+      "price": 36,
+      "mrp": 43,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "366032"
+     },
+     "product_id": "366032",
+     "group_id": 2186594,
+     "name": {
+      "text": "Desi Tomato"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹24"
+     },
+     "mrp": {
+      "text": "₹29"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 50,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/27a22d9c-469e-483d-bebf-7a2b1e86a64c.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 366032,
+        "merchant_id": 40076,
+        "product_name": "Desi Tomato",
+        "price": 24,
+        "mrp": 29,
+        "unit": "500 g",
+        "inventory": 50,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/27a22d9c-469e-483d-bebf-7a2b1e86a64c.png"
+       }
+      }
+     },
+     "variant_list": [
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "366032"
+        },
+        "product_id": "366032",
+        "group_id": 2186594,
+        "name": {
+         "text": "Desi Tomato"
+        },
+        "variant": {
+         "text": "500 g"
+        },
+        "normal_price": {
+         "text": "₹24"
+        },
+        "mrp": {
+         "text": "₹29"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 50,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/27a22d9c-469e-483d-bebf-7a2b1e86a64c.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 366032,
+           "merchant_id": 40076,
+           "product_name": "Desi Tomato",
+           "price": 24,
+           "mrp": 29,
+           "unit": "500 g",
+           "inventory": 50,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/27a22d9c-469e-483d-bebf-7a2b1e86a64c.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Tomato",
+         "brand": "",
+         "product_id": "366032",
+         "price": 24,
+         "mrp": 29,
+         "state": "available"
+        }
+       }
+      },
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "540020"
+        },
+        "product_id": "540020",
+        "group_id": 2186594,
+        "name": {
+         "text": "Desi Tomato - Pack of 2"
+        },
+        "variant": {
+         "text": "2 x 500 g"
+        },
+        "normal_price": {
+         "text": "₹47"
+        },
+        "mrp": {
+         "text": "₹59"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 31,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777535102844-501.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 540020,
+           "merchant_id": 40076,
+           "product_name": "Desi Tomato - Pack of 2",
+           "price": 47,
+           "mrp": 59,
+           "unit": "2 x 500 g",
+           "inventory": 31,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777535102844-501.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Tomato",
+         "brand": "",
+         "product_id": "540020",
+         "price": 47,
+         "mrp": 59,
+         "state": "available"
+        }
+       }
+      }
+     ]
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Tomato",
+      "brand": "",
+      "product_id": "366032",
+      "price": 24,
+      "mrp": 29,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "367909"
+     },
+     "product_id": "367909",
+     "group_id": 435187,
+     "name": {
+      "text": "Hybrid Tomato"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹19"
+     },
+     "mrp": {
+      "text": "₹23"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 50,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/4ea129f5-d31b-4c96-8825-3680f77f4c5c.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 367909,
+        "merchant_id": 40076,
+        "product_name": "Hybrid Tomato",
+        "price": 19,
+        "mrp": 23,
+        "unit": "500 g",
+        "inventory": 50,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/4ea129f5-d31b-4c96-8825-3680f77f4c5c.png"
+       }
+      }
+     },
+     "variant_list": [
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "367909"
+        },
+        "product_id": "367909",
+        "group_id": 435187,
+        "name": {
+         "text": "Hybrid Tomato"
+        },
+        "variant": {
+         "text": "500 g"
+        },
+        "normal_price": {
+         "text": "₹19"
+        },
+        "mrp": {
+         "text": "₹23"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 50,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/4ea129f5-d31b-4c96-8825-3680f77f4c5c.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 367909,
+           "merchant_id": 40076,
+           "product_name": "Hybrid Tomato",
+           "price": 19,
+           "mrp": 23,
+           "unit": "500 g",
+           "inventory": 50,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/4ea129f5-d31b-4c96-8825-3680f77f4c5c.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Tomato",
+         "brand": "",
+         "product_id": "367909",
+         "price": 19,
+         "mrp": 23,
+         "state": "available"
+        }
+       }
+      },
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "540021"
+        },
+        "product_id": "540021",
+        "group_id": 435187,
+        "name": {
+         "text": "Hybrid Tomato Pack of 2"
+        },
+        "variant": {
+         "text": "2 x 500 g"
+        },
+        "normal_price": {
+         "text": "₹37"
+        },
+        "mrp": {
+         "text": "₹46"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 44,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777535102844-506.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 540021,
+           "merchant_id": 40076,
+           "product_name": "Hybrid Tomato Pack of 2",
+           "price": 37,
+           "mrp": 46,
+           "unit": "2 x 500 g",
+           "inventory": 44,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1777535102844-506.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Tomato",
+         "brand": "",
+         "product_id": "540021",
+         "price": 37,
+         "mrp": 46,
+         "state": "available"
+        }
+       }
+      }
+     ]
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Tomato",
+      "brand": "",
+      "product_id": "367909",
+      "price": 19,
+      "mrp": 23,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "602590"
+     },
+     "product_id": "602590",
+     "group_id": 1329167,
+     "name": {
+      "text": "Organically Grown Tomato (Hybrid)"
+     },
+     "brand_name": {
+      "text": "Siya Fruits And Vegetables"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹47"
+     },
+     "mrp": {
+      "text": "₹60"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 8,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/6739bad6-97d6-44fa-af22-94091a51fbe4.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 602590,
+        "merchant_id": 40076,
+        "product_name": "Organically Grown Tomato (Hybrid)",
+        "price": 47,
+        "mrp": 60,
+        "unit": "500 g",
+        "inventory": 8,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/6739bad6-97d6-44fa-af22-94091a51fbe4.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Tomato",
+      "brand": "Siya Fruits And Vegetables",
+      "product_id": "602590",
+      "price": 47,
+      "mrp": 60,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "779918"
+     },
+     "product_id": "779918",
+     "group_id": 3033761,
+     "name": {
+      "text": "Organically Grown Cherry Tomatoes by Bhoomi Farms"
+     },
+     "brand_name": {
+      "text": "Bhoomi Farms"
+     },
+     "variant": {
+      "text": "200 g"
+     },
+     "normal_price": {
+      "text": "₹59"
+     },
+     "mrp": {
+      "text": "₹73"
+     },
+     "merchant_id": "37746",
+     "merchant_type": "super_longtail",
+     "eta_identifier": "super_longtail",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 8,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1783654884512-425.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 779918,
+        "merchant_id": 37746,
+        "product_name": "Organically Grown Cherry Tomatoes by Bhoomi Farms",
+        "price": 59,
+        "mrp": 73,
+        "unit": "200 g",
+        "inventory": 8,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1783654884512-425.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Cherry Tomatoes",
+      "brand": "Bhoomi Farms",
+      "product_id": "779918",
+      "price": 59,
+      "mrp": 73,
+      "state": "available"
+     }
+    }
+   }
+  ],
+  "pagination": {
+   "next_url": "/v1/layout/search?offset=5&limit=12&actual_query=onion&last_snippet_type=product_card_snippet_type_2&last_widget_type=listing_container&page_index=1&q=onion&search_count=7&search_method=similarity&search_type=type_to_search&tab_position=0&total_entities_processed=1&total_pagination_items=327"
+  },
+  "tracking": {
+   "le_meta": {
+    "custom_data": {
+     "search_actual_keyword": "onion",
+     "search_input_keyword": "onion",
+     "search_result_count": "7"
+    }
+   }
+  }
+ }
+}

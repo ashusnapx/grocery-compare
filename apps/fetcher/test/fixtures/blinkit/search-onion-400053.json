@@ -1,0 +1,362 @@
+{
+ "is_success": true,
+ "response": {
+  "snippets": [
+   {
+    "widget_type": "image_text_vr_type_header",
+    "data": {
+     "identity": {
+      "id": "product_container"
+     },
+     "title": {
+      "text": "Showing results for \"onion\""
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "530158"
+     },
+     "product_id": "530158",
+     "group_id": 104334,
+     "name": {
+      "text": "Onion (Kanda)"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "1 kg"
+     },
+     "normal_price": {
+      "text": "₹63"
+     },
+     "mrp": {
+      "text": "₹80"
+     },
+     "merchant_id": "47074",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 42,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 530158,
+        "merchant_id": 47074,
+        "product_name": "Onion (Kanda)",
+        "price": 63,
+        "mrp": 80,
+        "unit": "1 kg",
+        "inventory": 42,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+       }
+      }
+     },
+     "variant_list": [
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "530158"
+        },
+        "product_id": "530158",
+        "group_id": 104334,
+        "name": {
+         "text": "Onion (Kanda)"
+        },
+        "brand_name": {
+         "text": "Freshbury"
+        },
+        "variant": {
+         "text": "1 kg"
+        },
+        "normal_price": {
+         "text": "₹63"
+        },
+        "mrp": {
+         "text": "₹80"
+        },
+        "merchant_id": "47074",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 42,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 530158,
+           "merchant_id": 47074,
+           "product_name": "Onion (Kanda)",
+           "price": 63,
+           "mrp": 80,
+           "unit": "1 kg",
+           "inventory": 42,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/f53c1ea1-cfa0-438b-a14c-b4f5ebeed7dd.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Onion",
+         "brand": "Freshbury",
+         "product_id": "530158",
+         "price": 63,
+         "mrp": 80,
+         "state": "available"
+        }
+       }
+      },
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "532987"
+        },
+        "product_id": "532987",
+        "group_id": 104334,
+        "name": {
+         "text": "Onion Pack of 2 (Kanda)"
+        },
+        "brand_name": {
+         "text": "Freshbury"
+        },
+        "variant": {
+         "text": "2 x 1 kg"
+        },
+        "normal_price": {
+         "text": "₹125"
+        },
+        "mrp": {
+         "text": "₹161"
+        },
+        "merchant_id": "47074",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 21,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/4e24f749-8a65-4a87-a562-7bc4bf49351f.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 532987,
+           "merchant_id": 47074,
+           "product_name": "Onion Pack of 2 (Kanda)",
+           "price": 125,
+           "mrp": 161,
+           "unit": "2 x 1 kg",
+           "inventory": 21,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/4e24f749-8a65-4a87-a562-7bc4bf49351f.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Onion",
+         "brand": "Freshbury",
+         "product_id": "532987",
+         "price": 125,
+         "mrp": 161,
+         "state": "available"
+        }
+       }
+      }
+     ]
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Freshbury",
+      "product_id": "530158",
+      "price": 63,
+      "mrp": 80,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "595308"
+     },
+     "product_id": "595308",
+     "group_id": 2751509,
+     "name": {
+      "text": "Organically Grown - Onion (Kanda)"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹51"
+     },
+     "mrp": {
+      "text": "₹66"
+     },
+     "merchant_id": "47074",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 4,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/3b76bfb9-031c-4ae8-bf4b-2906f035cf10.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 595308,
+        "merchant_id": 47074,
+        "product_name": "Organically Grown - Onion (Kanda)",
+        "price": 51,
+        "mrp": 66,
+        "unit": "500 g",
+        "inventory": 4,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/3b76bfb9-031c-4ae8-bf4b-2906f035cf10.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Onion",
+      "brand": "Freshbury",
+      "product_id": "595308",
+      "price": 51,
+      "mrp": 66,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "421744"
+     },
+     "product_id": "421744",
+     "group_id": 2754751,
+     "name": {
+      "text": "Spring Onion (Kandychi Path)"
+     },
+     "brand_name": {
+      "text": "Freshbury"
+     },
+     "variant": {
+      "text": "150 g"
+     },
+     "normal_price": {
+      "text": "₹20"
+     },
+     "mrp": {
+      "text": "₹23"
+     },
+     "merchant_id": "47074",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 2,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/1d2f9e6b-138d-4daf-8cd3-8b50b71e917a.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 421744,
+        "merchant_id": 47074,
+        "product_name": "Spring Onion (Kandychi Path)",
+        "price": 20,
+        "mrp": 23,
+        "unit": "150 g",
+        "inventory": 2,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/1d2f9e6b-138d-4daf-8cd3-8b50b71e917a.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Spring Onion",
+      "brand": "Freshbury",
+      "product_id": "421744",
+      "price": 20,
+      "mrp": 23,
+      "state": "available"
+     }
+    }
+   }
+  ],
+  "pagination": {
+   "next_url": "/v1/layout/search?offset=6&limit=12&actual_query=onion&last_snippet_type=product_card_snippet_type_2&last_widget_type=listing_container&page_index=1&q=onion&search_count=6&search_method=similarity&search_type=type_to_search&tab_position=0&total_entities_processed=1&total_pagination_items=194"
+  },
+  "tracking": {
+   "le_meta": {
+    "custom_data": {
+     "search_actual_keyword": "onion",
+     "search_input_keyword": "onion",
+     "search_result_count": "6"
+    }
+   }
+  }
+ }
+}

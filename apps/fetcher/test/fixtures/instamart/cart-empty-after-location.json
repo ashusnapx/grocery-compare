@@ -1,0 +1,17 @@
+{
+ "_note": "Trimmed from GET www.swiggy.com/api/instamart/checkout/v2/cart?pageType=INSTAMART_HOME after select-location + reload, 2026-09-27. statusMessage (it embeds a session JWT) removed.",
+ "data": {
+  "data": {
+   "comms": {
+    "nudgeComms": {
+     "success": {
+      "text": "<b>FREE DELIVERY</b> on orders above ₹199",
+      "movCrossed": false
+     }
+    }
+   }
+  },
+  "statusCode": 101
+ },
+ "statusCode": 0
+}

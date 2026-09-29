@@ -1,0 +1,956 @@
+{
+ "is_llm_flow": false,
+ "is_llm_timeout": false,
+ "tabs": [
+  {
+   "product_info": {
+    "products": [
+     {
+      "id": "10000804",
+      "desc": "Toor Dal/Togari Bele - Desi",
+      "brand": {
+       "name": "bb Royal"
+      },
+      "w": "2 kg",
+      "absolute_url": "/pd/10000804/bb-royal-toor-dalarhar-dal-desi-2-kg-pouch/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Dals & Pulses",
+       "llc_name": "Toor, Channa & Moong Dal"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "599",
+        "prim_price": {
+         "sp": "319",
+         "rsp": "323"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/10000804_14-bb-royal-toor-dalarhar-dal-desi.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/10000804_14-bb-royal-toor-dalarhar-dal-desi.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/10000804_14-bb-royal-toor-dalarhar-dal-desi.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "10000444",
+        "desc": "Toor Dal/Togari Bele - Desi",
+        "brand": {
+         "name": "bb Royal"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/10000444/bb-royal-toor-dalarhar-dal-desi-500-g-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "151",
+          "prim_price": {
+           "sp": "90.48",
+           "rsp": "90.48"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/10000444_12-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/10000444_12-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/10000444_12-bb-royal-toor-dalarhar-dal-desi.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "10000425",
+        "desc": "Toor Dal/Togari Bele - Desi",
+        "brand": {
+         "name": "bb Royal"
+        },
+        "w": "1 kg",
+        "absolute_url": "/pd/10000425/bb-royal-toor-dalarhar-dal-desi-1-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "300",
+          "prim_price": {
+           "sp": "165",
+           "rsp": "174"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/10000425_19-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/10000425_19-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/10000425_19-bb-royal-toor-dalarhar-dal-desi.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40042841",
+        "desc": "Toor Dal/Togari Bele - Desi",
+        "brand": {
+         "name": "bb Royal"
+        },
+        "w": "5 kg",
+        "absolute_url": "/pd/40042841/bb-royal-toor-dalarhar-dal-desi-5-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "1449",
+          "prim_price": {
+           "sp": "808",
+           "rsp": "808"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40042841_9-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40042841_9-bb-royal-toor-dalarhar-dal-desi.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40042841_9-bb-royal-toor-dalarhar-dal-desi.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "10000428",
+      "desc": "Toor/Arhar Dal",
+      "brand": {
+       "name": "bb Popular"
+      },
+      "w": "1 kg",
+      "absolute_url": "/pd/10000428/bb-popular-toorarhar-dal-1-kg-pouch/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Dals & Pulses",
+       "llc_name": "Toor, Channa & Moong Dal"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "275",
+        "prim_price": {
+         "sp": "119",
+         "rsp": "165"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/10000428_18-bb-popular-toorarhar-dal.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/10000428_18-bb-popular-toorarhar-dal.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/10000428_18-bb-popular-toorarhar-dal.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "10000427",
+        "desc": "Toor/Arhar Dal",
+        "brand": {
+         "name": "bb Popular"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/10000427/bb-popular-toorarhar-dal-500-g-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "140",
+          "prim_price": {
+           "sp": "85.8",
+           "rsp": "85.8"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/10000427_20-bb-popular-toorarhar-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/10000427_20-bb-popular-toorarhar-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/10000427_20-bb-popular-toorarhar-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40000263",
+        "desc": "Toor/Arhar Dal",
+        "brand": {
+         "name": "bb Popular"
+        },
+        "w": "2 kg",
+        "absolute_url": "/pd/40000263/bb-popular-toorarhar-dal-2-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "549",
+          "prim_price": {
+           "sp": "289",
+           "rsp": "319"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40000263_16-bb-popular-toorarhar-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40000263_16-bb-popular-toorarhar-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40000263_16-bb-popular-toorarhar-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "10000412",
+        "desc": "Toor/Arhar Dal",
+        "brand": {
+         "name": "bb Popular"
+        },
+        "w": "5 kg",
+        "absolute_url": "/pd/10000412/bb-popular-toorarhar-dal-5-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "1349",
+          "prim_price": {
+           "sp": "792",
+           "rsp": "792"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/10000412_17-bb-popular-toorarhar-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/10000412_17-bb-popular-toorarhar-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/10000412_17-bb-popular-toorarhar-dal.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40289045",
+      "desc": "Unpolished Toor Dal/Arhar Dal",
+      "brand": {
+       "name": "Tata Sampann"
+      },
+      "w": "2 kg",
+      "absolute_url": "/pd/40289045/tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients-2-kg/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Dals & Pulses",
+       "llc_name": "Toor, Channa & Moong Dal"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "468",
+        "prim_price": {
+         "sp": "339",
+         "rsp": "449.28"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40289045_7-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40289045_7-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40289045_7-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40000291",
+        "desc": "Toor Dal/Togari Bele",
+        "brand": {
+         "name": "Tata Sampann"
+        },
+        "w": "1 kg",
+        "absolute_url": "/pd/40000291/tata-sampann-unpolished-toor-dalarhar-dal-1-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "234",
+          "prim_price": {
+           "sp": "169",
+           "rsp": "234"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40000291_16-tata-sampann-unpolished-toor-dalarhar-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40000291_16-tata-sampann-unpolished-toor-dalarhar-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40000291_16-tata-sampann-unpolished-toor-dalarhar-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40000292",
+        "desc": "Toor Dal/Togari Bele",
+        "brand": {
+         "name": "Tata Sampann"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/40000292/tata-sampann-unpolished-toor-dalarhar-dal-500-g-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "118",
+          "prim_price": {
+           "sp": "87",
+           "rsp": "118"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40000292_11-tata-sampann-unpolished-toor-dalarhar-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40000292_11-tata-sampann-unpolished-toor-dalarhar-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40000292_11-tata-sampann-unpolished-toor-dalarhar-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40289046",
+        "desc": "Unpolished Toor Dal/Arhar Dal",
+        "brand": {
+         "name": "Tata Sampann"
+        },
+        "w": "5 kg",
+        "absolute_url": "/pd/40289046/tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients-5-kg/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "1120",
+          "prim_price": {
+           "sp": "1064",
+           "rsp": "1064"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40289046_6-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40289046_6-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40289046_6-tata-sampann-unpolished-toorarhar-dal-rich-in-protein-loaded-with-nutrients.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40075469",
+      "desc": "Toor Dal/Togari Bele",
+      "brand": {
+       "name": "BB Royal Organic"
+      },
+      "w": "2 kg",
+      "absolute_url": "/pd/40075469/bb-royal-organic-turtoor-dal-2-kg/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Organic Staples",
+       "llc_name": "Organic Dals & Pulses"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "589",
+        "prim_price": {
+         "sp": "347.01",
+         "rsp": "347.01"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40075469_13-bb-royal-organic-turtoor-dal.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40075469_13-bb-royal-organic-turtoor-dal.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40075469_13-bb-royal-organic-turtoor-dal.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40072495",
+        "desc": "Toor Dal/Togari Bele",
+        "brand": {
+         "name": "BB Royal Organic"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/40072495/bb-royal-organic-turtoor-dal-500-g/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Organic Staples",
+         "llc_name": "Organic Dals & Pulses"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "150",
+          "prim_price": {
+           "sp": "93.5",
+           "rsp": "96.81"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40072495_15-bb-royal-organic-turtoor-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40072495_15-bb-royal-organic-turtoor-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40072495_15-bb-royal-organic-turtoor-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40072494",
+        "desc": "Toor Dal/Togari Bele",
+        "brand": {
+         "name": "BB Royal Organic"
+        },
+        "w": "1 kg",
+        "absolute_url": "/pd/40072494/bb-royal-organic-turtoor-dal-1-kg/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Organic Staples",
+         "llc_name": "Organic Dals & Pulses"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "299",
+          "prim_price": {
+           "sp": "175",
+           "rsp": "180.09"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40072494_16-bb-royal-organic-turtoor-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40072494_16-bb-royal-organic-turtoor-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40072494_16-bb-royal-organic-turtoor-dal.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40159898",
+      "desc": "Toor/Arhar Dal",
+      "brand": {
+       "name": "bb SUPER SAVER"
+      },
+      "w": "2 kg",
+      "absolute_url": "/pd/40159898/super-saver-toorarhar-dal-desi-2-kg-pouch/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Dals & Pulses",
+       "llc_name": "Toor, Channa & Moong Dal"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "519",
+        "prim_price": {
+         "sp": "262",
+         "rsp": "319"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40159898_9-super-saver-toorarhar-dal-desi.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40159898_9-super-saver-toorarhar-dal-desi.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40159898_9-super-saver-toorarhar-dal-desi.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40159897",
+        "desc": "Toor/Arhar Dal",
+        "brand": {
+         "name": "bb SUPER SAVER"
+        },
+        "w": "1 kg",
+        "absolute_url": "/pd/40159897/super-saver-toorarhar-dal-desi-1-kg-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "260",
+          "prim_price": {
+           "sp": "131",
+           "rsp": "165"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40159897_5-super-saver-toorarhar-dal-desi.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40159897_5-super-saver-toorarhar-dal-desi.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40159897_5-super-saver-toorarhar-dal-desi.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40019639",
+      "desc": "Organic Arhar/Tur Dal",
+      "brand": {
+       "name": "Organic Tattva"
+      },
+      "w": "1 kg",
+      "absolute_url": "/pd/40019639/organic-tattva-arhar-tur-dal-1-kg-pouch/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Organic Staples",
+       "llc_name": "Organic Dals & Pulses"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "325",
+        "prim_price": {
+         "sp": "197.6",
+         "rsp": "274.01"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40019639_4-organic-tattva-arhar-tur-dal.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40019639_4-organic-tattva-arhar-tur-dal.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40019639_4-organic-tattva-arhar-tur-dal.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40002642",
+        "desc": "Organic Arhar/Tur Dal",
+        "brand": {
+         "name": "Organic Tattva"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/40002642/organic-tattva-organic-turdal-arhar-500-g-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Organic Staples",
+         "llc_name": "Organic Dals & Pulses"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "135",
+          "prim_price": {
+           "sp": "92.34",
+           "rsp": "117.61"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40002642_7-organic-tattva-organic-turdal-arhar.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40002642_7-organic-tattva-organic-turdal-arhar.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40002642_7-organic-tattva-organic-turdal-arhar.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "301974",
+      "desc": "Organic Toor Dal/Togari Bele",
+      "brand": {
+       "name": "24 Mantra Organic"
+      },
+      "w": "1 kg",
+      "absolute_url": "/pd/301974/24-mantra-organic-toor-dal-1-kg-pouch/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Organic Staples",
+       "llc_name": "Organic Dals & Pulses"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "295",
+        "prim_price": {
+         "sp": "186.2",
+         "rsp": "257"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/301974_9-24-mantra-organic-toor-dal.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/301974_9-24-mantra-organic-toor-dal.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/301974_9-24-mantra-organic-toor-dal.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "279810",
+        "desc": "Tur/Arhar Dal",
+        "brand": {
+         "name": "24 Mantra Organic"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/279810/24-mantra-organic-tur-dal-500-g-pouch/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Organic Staples",
+         "llc_name": "Organic Dals & Pulses"
+        },
+        "availability": {
+         "avail_status": "001",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "149",
+          "prim_price": {
+           "sp": "130.16",
+           "rsp": "137.01"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/279810_9-24-mantra-organic-tur-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/279810_9-24-mantra-organic-tur-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/279810_9-24-mantra-organic-tur-dal.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40329225",
+      "desc": "Unpolished Toor Dal",
+      "brand": {
+       "name": "Parry's"
+      },
+      "w": "1 kg",
+      "absolute_url": "/pd/40329225/parrys-unpolished-toor-dal-1-kg/",
+      "category": {
+       "tlc_name": "Foodgrains, Oil & Masala",
+       "mlc_name": "Dals & Pulses",
+       "llc_name": "Toor, Channa & Moong Dal"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "210",
+        "prim_price": {
+         "sp": "181.53",
+         "rsp": "181.53"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 18648,
+       "fc_id": 1744
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40329225_1-parrys-unpolished-toor-dal.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40329225_1-parrys-unpolished-toor-dal.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40329225_1-parrys-unpolished-toor-dal.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40355822",
+        "desc": "Unpolished Toor Dal",
+        "brand": {
+         "name": "Parry's"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/40355822/parrys-unpolished-toor-dal-500-g/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "110",
+          "prim_price": {
+           "sp": "100",
+           "rsp": "100"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40355822_1-parrys-unpolished-toor-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40355822_1-parrys-unpolished-toor-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40355822_1-parrys-unpolished-toor-dal.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40357294",
+        "desc": "Unpolished Toor Dal",
+        "brand": {
+         "name": "Parry's"
+        },
+        "w": "2 kg",
+        "absolute_url": "/pd/40357294/parrys-unpolished-toor-dal-2-kg/",
+        "category": {
+         "tlc_name": "Foodgrains, Oil & Masala",
+         "mlc_name": "Dals & Pulses",
+         "llc_name": "Toor, Channa & Moong Dal"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "409",
+          "prim_price": {
+           "sp": "331.25",
+           "rsp": "331.25"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 18648,
+         "fc_id": 1744
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40357294_1-parrys-unpolished-toor-dal.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40357294_1-parrys-unpolished-toor-dal.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40357294_1-parrys-unpolished-toor-dal.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

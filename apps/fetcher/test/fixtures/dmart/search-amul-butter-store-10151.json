@@ -1,0 +1,724 @@
+{
+ "totalRecords": 101,
+ "products": [
+  {
+   "buyable": "true",
+   "manufacturer": "Amul",
+   "name": "Amul Butter",
+   "seo_token_ntk": "amul-butter",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "113003",
+   "targetUrl": "/pdp/113003",
+   "sKUs": [
+    {
+     "name": "Amul Butter : 100 g",
+     "skuUniqueID": "113502",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "63.00",
+     "priceSALE": "61.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "100 g",
+     "productImageKey": "DEC130000379xx16DEC22",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    },
+    {
+     "name": "Amul Butter : 200 g",
+     "skuUniqueID": "460502",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "130.00",
+     "priceSALE": "124.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "200 g",
+     "productImageKey": "DEC130000597xx16DEC22",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "Amul Butter : 500 g",
+     "skuUniqueID": "113501",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "310.00",
+     "priceSALE": "301.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "AUG130000378xx24AUG26vvG500g",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Chitale Dairy",
+   "name": "Chitale Pasteurised Table Butter",
+   "seo_token_ntk": "chitale-pasteurised-table-butter-pbutter0chit1xx280223",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "1271001",
+   "targetUrl": "/pdp/1271001",
+   "sKUs": [
+    {
+     "name": "Chitale Pasteurised Table Butter : 500 g",
+     "skuUniqueID": "1270003",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "305.00",
+     "priceSALE": "290.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "AUG130001986xx17AUG26",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    },
+    {
+     "name": "Chitale Pasteurised Table Butter : 100 g",
+     "skuUniqueID": "1270004",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "65.00",
+     "priceSALE": "61.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "100 g",
+     "productImageKey": "FEB130001987xx28FEB23",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Nutralite",
+   "name": "Nutralite Doodh Shakti Butter Spread",
+   "seo_token_ntk": "nutralite-doodhshakti-butter-pbutter0nutr1xx27022",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "1016001",
+   "targetUrl": "/pdp/1016001",
+   "sKUs": [
+    {
+     "name": "Nutralite Doodh Shakti Butter Spread : 500 g",
+     "skuUniqueID": "1015501",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "305.00",
+     "priceSALE": "260.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "FEB130001797xx27FEB22",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Delicious",
+   "name": "Delicious Fat Spread",
+   "seo_token_ntk": "delicious-fat-spread-pmargarine0deli1xx140721",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "885027",
+   "targetUrl": "/pdp/885027",
+   "sKUs": [
+    {
+     "name": "Delicious Fat Spread : 500 g",
+     "skuUniqueID": "113522",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "117.00",
+     "priceSALE": "110.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "JAN130000399xx12JAN22",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Nutralite",
+   "name": "Nutralite Fat Spread Tub",
+   "seo_token_ntk": "nutralite-fat-spread",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "113017",
+   "targetUrl": "/pdp/113017",
+   "sKUs": [
+    {
+     "name": "Nutralite Fat Spread Tub : 500 g",
+     "skuUniqueID": "113523",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "310.00",
+     "priceSALE": "259.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "AUG130000400xx8AUG26vvG500g",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Nutralite",
+   "name": "Nutralite Fat Spread UKE",
+   "seo_token_ntk": "nutralite-fat-spread-uke",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "113018",
+   "targetUrl": "/pdp/113018",
+   "sKUs": [
+    {
+     "name": "Nutralite Fat Spread UKE : 500 g",
+     "skuUniqueID": "113524",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "300.00",
+     "priceSALE": "255.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "KMrgrnuke500gNTLT2024xx070621",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Mother Dairy",
+   "name": "Mother Dairy Pasteurized Butter",
+   "seo_token_ntk": "mother-dairy-pasteuri-butter-pbutter0moth5xx220221",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "840503",
+   "targetUrl": "/pdp/840503",
+   "sKUs": [
+    {
+     "name": "Mother Dairy Pasteurized Butter : 500 g",
+     "skuUniqueID": "800136",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "310.00",
+     "priceSALE": "295.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "JUN130001470xx8JUN22",
+     "imgCode": "3",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "President",
+   "name": "President Premium Butter Salted",
+   "seo_token_ntk": "president-premium-butter-salted-pbutter0pres19xx170120",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "634629",
+   "targetUrl": "/pdp/634629",
+   "sKUs": [
+    {
+     "name": "President Premium Butter Salted : 100 g",
+     "skuUniqueID": "645514",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "75.00",
+     "priceSALE": "69.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "100 g",
+     "productImageKey": "JUN130000675xx11JUN24",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "President Premium Butter Salted : 500 g",
+     "skuUniqueID": "645513",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "365.00",
+     "priceSALE": "339.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "DEC130000674xx18DEC21",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "President",
+   "name": "President Premium Butter Unsalted",
+   "seo_token_ntk": "president-premium-butter-unsalted",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "634632",
+   "targetUrl": "/pdp/634632",
+   "sKUs": [
+    {
+     "name": "President Premium Butter Unsalted : 500 g",
+     "skuUniqueID": "645516",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "370.00",
+     "priceSALE": "340.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "DEC130000677xx18DEC21",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Mother Dairy",
+   "name": "Mother Dairy Pasteurized Butter",
+   "seo_token_ntk": "mother-dairy-pasteurized-butter-pcheese0moth3xx50423",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "1293020",
+   "targetUrl": "/pdp/1293020",
+   "sKUs": [
+    {
+     "name": "Mother Dairy Pasteurized Butter : 100 g",
+     "skuUniqueID": "800135",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "63.00",
+     "priceSALE": "60.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "100 g",
+     "productImageKey": "APR130001469xx5APR23",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Act II",
+   "name": "Act II Butter Delite Flavour Popcorn",
+   "seo_token_ntk": "act-ii-butter-delite-flavour-popcorn",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Packaged Food"
+    },
+    {
+     "level": "L2",
+     "name": "Ready To Cook"
+    },
+    {
+     "level": "L3",
+     "name": "Popcorn"
+    }
+   ],
+   "productId": "736942",
+   "targetUrl": "/pdp/736942",
+   "sKUs": [
+    {
+     "name": "Act II Butter Delite Flavour Popcorn : 450 g",
+     "skuUniqueID": "738606",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "135.00",
+     "priceSALE": "120.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "450 g",
+     "productImageKey": "JUL120003131xx10JUL25vvF450g",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Suhana",
+   "name": "Suhana Paneer Butter Masala Mix",
+   "seo_token_ntk": "suhana-paneer-butter-masala-mix",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Masala & Spices"
+    },
+    {
+     "level": "L3",
+     "name": "Powdered Spices"
+    }
+   ],
+   "productId": "14180",
+   "targetUrl": "/pdp/14180",
+   "sKUs": [
+    {
+     "name": "Suhana Paneer Butter Masala Mix : 50 g",
+     "skuUniqueID": "11225",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "50.00",
+     "priceSALE": "38.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "50 g",
+     "productImageKey": "IPowderMasala50gmSHN3861xx210521",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  }
+ ],
+ "oosProducts": [
+  {
+   "buyable": "true",
+   "manufacturer": "Amul",
+   "name": "Amul Butter School Pack",
+   "seo_token_ntk": "amul-butter-school-pack",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "200092",
+   "targetUrl": "/pdp/200092",
+   "sKUs": [
+    {
+     "name": "Amul Butter School Pack : 100 g",
+     "skuUniqueID": "203001",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "80.00",
+     "priceSALE": "74.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "100 g",
+     "productImageKey": "MAY130000430xx3MAY24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Amul",
+   "name": "Amul Butter Unsalted",
+   "seo_token_ntk": "amul-butter-unsalted-pbutteramul15xx141218",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "408550",
+   "targetUrl": "/pdp/408550",
+   "sKUs": [
+    {
+     "name": "Amul Butter Unsalted : 100 g",
+     "skuUniqueID": "413004",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "65.00",
+     "priceSALE": "61.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "100 g",
+     "productImageKey": "DEC130000540xx16DEC22",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "Amul Butter Unsalted : 500 g",
+     "skuUniqueID": "513009",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "320.00",
+     "priceSALE": "305.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "500 g",
+     "productImageKey": "JUL130000621xx6JUL26vvG500gm",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Amul",
+   "name": "Amul Garlic & Herbs Buttery Spread",
+   "seo_token_ntk": "amul-garlic-&-herbs-buttery-spread",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "113006",
+   "targetUrl": "/pdp/113006",
+   "sKUs": [
+    {
+     "name": "Amul Garlic & Herbs Buttery Spread : 100 g",
+     "skuUniqueID": "113503",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "75.00",
+     "priceSALE": "71.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "100 g",
+     "productImageKey": "MAY130000380xx3MAY24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Amul",
+   "name": "Amul Lite Milk Fat Bread Spread",
+   "seo_token_ntk": "amul-lite-milk-fat-bread-spread-pcupsmugs0amul29xx270220",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Dairy & Beverages"
+    },
+    {
+     "level": "L2",
+     "name": "Dairy"
+    },
+    {
+     "level": "L3",
+     "name": "Butter"
+    }
+   ],
+   "productId": "658856",
+   "targetUrl": "/pdp/658856",
+   "sKUs": [
+    {
+     "name": "Amul Lite Milk Fat Bread Spread : 500 g",
+     "skuUniqueID": "673017",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "240.00",
+     "priceSALE": "230.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "500 g",
+     "productImageKey": "MAY130000707xx3MAY24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Suhana",
+   "name": "Suhana Paneer Makhanwala Mix Masala",
+   "seo_token_ntk": "suhana-paneer-makhanwala-mix-masala",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Masala & Spices"
+    },
+    {
+     "level": "L3",
+     "name": "Powdered Spices"
+    }
+   ],
+   "productId": "141008",
+   "targetUrl": "/pdp/141008",
+   "sKUs": [
+    {
+     "name": "Suhana Paneer Makhanwala Mix Masala : 50 g",
+     "skuUniqueID": "139002",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "50.00",
+     "priceSALE": "40.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "50 g",
+     "productImageKey": "KPOWDEREDSPICES50gmSHN2991xx210521",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  }
+ ],
+ "oosPosition": "5"
+}

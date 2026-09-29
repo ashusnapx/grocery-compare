@@ -1,0 +1,10 @@
+{
+ "_note": "HTTP 303 answer of GET www.bigbasket.com/ui-svc/v1/serviceable/?lat=26.856&lng=80.991&send_all_serviceability=true (Lucknow 226010) and for Bhagalpur 812001, 2026-09-29 ~09:20 IST, as logged by apps/fetcher/src/coverage.ts. The log kept only the first 120 characters of the body; everything after type (a display_msg) is not reproduced here. The same Lucknow point answered 200 (bbnow bb2.0) eleven minutes later.",
+ "errors": [
+  {
+   "code": 4056,
+   "code_str": "SERVE4056",
+   "type": "SERVICEABILITY ERROR"
+  }
+ ]
+}

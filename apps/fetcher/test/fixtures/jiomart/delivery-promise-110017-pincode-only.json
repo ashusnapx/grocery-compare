@@ -1,0 +1,14 @@
+{
+ "items": [],
+ "promise": {},
+ "query_params": {},
+ "page": {
+  "current": 1,
+  "has_previous": false,
+  "has_next": false,
+  "type": "number",
+  "size": 0,
+  "item_total": 0
+ },
+ "_note": "GET api.jiomartjcp.com/.../delivery-promise with x-location-detail {pincode 110017, country India, IN} and NO x-geolocation, 2026-09-29: no store at all, although JioMart delivers groceries there (see delivery-promise-110017-geo.json)."
+}

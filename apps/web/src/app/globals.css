@@ -1,0 +1,238 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/*
+ * jhola — calm and plain. Neutral greys, white cards with a hairline border,
+ * one green for actions, savings and "your prices". App brand colours only
+ * appear as small dots that say which app is which.
+ *
+ * Shape rule: cards and dialogs 16px · rows and panels inside them 12px ·
+ * buttons and inputs 8px · chips and pills fully round.
+ */
+:root {
+  color-scheme: light;
+  --bg: #fafafa;
+  --fg: #18181b;
+  --card: #ffffff;
+  --line: #e4e4e7;
+  --line-strong: #d4d4d8;
+  --muted: #6b6b74; /* 4.8:1 on the soft grey, 5.3:1 on white */
+  --soft: #f4f4f5;
+
+  /* The one accent. White on it is 5:1 (AA). */
+  --accent: #15803d;
+  --accent-hover: #166534;
+  --on-accent: #ffffff;
+  --focus: #16a34a;
+
+  /* Status tints: green = good, amber = heads-up, red = no. */
+  --good: #15803d;
+  --good-soft: #f0fdf4;
+  --good-line: #bbf7d0;
+  --warn: #b45309;
+  --warn-soft: #fffbeb;
+  --warn-line: #fde68a;
+  --bad: #b91c1c;
+  --bad-soft: #fef2f2;
+  --bad-line: #fecaca;
+
+  /* Elevation: cards barely lift; menus and dialogs float a little. */
+  --elev-1: 0 1px 2px 0 rgb(0 0 0 / 0.04), 0 1px 3px 0 rgb(0 0 0 / 0.03);
+  --elev-2: 0 16px 40px -16px rgb(0 0 0 / 0.2), 0 2px 8px -2px rgb(0 0 0 / 0.06);
+}
+
+.dark {
+  color-scheme: dark;
+  --bg: #0b0b0c;
+  --fg: #ededef;
+  --card: #141416;
+  --line: #26272b;
+  --line-strong: #34353a;
+  --muted: #a1a1aa;
+  --soft: #1d1d20;
+
+  --accent: #15803d;
+  --accent-hover: #166534;
+  --on-accent: #ffffff;
+  --focus: #22c55e;
+
+  --good: #4ade80;
+  --good-soft: rgb(34 197 94 / 0.1);
+  --good-line: rgb(34 197 94 / 0.28);
+  --warn: #fbbf24;
+  --warn-soft: rgb(245 158 11 / 0.1);
+  --warn-line: rgb(245 158 11 / 0.28);
+  --bad: #f87171;
+  --bad-soft: rgb(239 68 68 / 0.1);
+  --bad-line: rgb(239 68 68 / 0.28);
+
+  --elev-1: 0 1px 2px 0 rgb(0 0 0 / 0.3);
+  --elev-2: 0 16px 40px -12px rgb(0 0 0 / 0.7);
+}
+
+@theme inline {
+  /* One family for everything; numbers use tabular figures where they line up. */
+  --font-sans: var(--font-instrument), ui-sans-serif, system-ui, sans-serif;
+  --font-display: var(--font-instrument), ui-sans-serif, system-ui, sans-serif;
+  --font-mono: ui-monospace, SFMono-Regular, Menlo, monospace;
+
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-card: var(--card);
+  --color-line: var(--line);
+  --color-line-strong: var(--line-strong);
+  --color-muted: var(--muted);
+  --color-soft: var(--soft);
+
+  --color-accent: var(--accent);
+  --color-accent-hover: var(--accent-hover);
+  --color-on-accent: var(--on-accent);
+  --color-focus: var(--focus);
+  --color-good: var(--good);
+  --color-good-soft: var(--good-soft);
+  --color-good-line: var(--good-line);
+  --color-warn: var(--warn);
+  --color-warn-soft: var(--warn-soft);
+  --color-warn-line: var(--warn-line);
+  --color-bad: var(--bad);
+  --color-bad-soft: var(--bad-soft);
+  --color-bad-line: var(--bad-line);
+
+  --shadow-card: var(--elev-1);
+  --shadow-pop: var(--elev-2);
+
+  /* The old palette names, kept so nothing breaks, now mapped onto the calm palette. */
+  --color-lime: var(--accent);
+  --color-go: var(--accent);
+  --color-ink: #18181b;
+  --color-pink: var(--soft);
+  --color-turmeric: var(--warn-soft);
+  --color-chilli: var(--bad);
+  --color-mint: var(--good-soft);
+  --color-sky: var(--soft);
+  --color-grape: var(--soft);
+}
+
+@layer base {
+  html {
+    -webkit-tap-highlight-color: transparent;
+  }
+  body {
+    background-color: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-sans);
+  }
+  ::selection {
+    background: color-mix(in oklab, var(--focus) 24%, transparent);
+  }
+  :focus-visible {
+    outline: 2px solid var(--focus);
+    outline-offset: 2px;
+  }
+}
+
+@layer components {
+  /*
+   * Surfaces. The class names are historical (the app was neo-brutalist once);
+   * they now draw quiet hairline cards.
+   */
+  .brutal,
+  .brutal-lg {
+    border: 1px solid var(--line);
+    border-radius: 1rem;
+    box-shadow: var(--elev-1);
+  }
+  .brutal-sm {
+    border: 1px solid var(--line);
+    border-radius: 0.5rem;
+  }
+  /* Press feedback: colours ease, a tap dips a touch. Nothing jumps. */
+  .press {
+    transition-property: color, background-color, border-color, opacity, transform;
+    transition-duration: 150ms;
+    transition-timing-function: ease;
+  }
+  .press:active:not(:disabled) {
+    transform: scale(0.98);
+  }
+  /* A small round pill with a hairline border. */
+  .sticker {
+    border: 1px solid var(--line);
+    border-radius: 999px;
+    font-weight: 500;
+  }
+
+  /* Buttons: solid green for the main action, hairline for the rest, ghost for icons. */
+  .btn-primary,
+  .btn-secondary,
+  .btn-ghost {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    transition-property: color, background-color, border-color, opacity, transform;
+    transition-duration: 150ms;
+    transition-timing-function: ease;
+  }
+  .btn-primary {
+    background-color: var(--accent);
+    color: var(--on-accent);
+  }
+  .btn-primary:hover:not(:disabled) {
+    background-color: var(--accent-hover);
+  }
+  .btn-secondary {
+    border: 1px solid var(--line);
+    background-color: var(--card);
+    color: var(--fg);
+  }
+  .btn-secondary:hover:not(:disabled) {
+    background-color: var(--soft);
+  }
+  .btn-ghost {
+    color: var(--muted);
+  }
+  .btn-ghost:hover:not(:disabled) {
+    background-color: var(--soft);
+    color: var(--fg);
+  }
+  :is(.btn-primary, .btn-secondary, .btn-ghost):active:not(:disabled) {
+    transform: scale(0.98);
+  }
+  :is(.btn-primary, .btn-secondary, .btn-ghost):disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+  }
+
+  .tabular {
+    font-variant-numeric: tabular-nums;
+  }
+  /* Number fields without the browser's spinner arrows (typing and arrow keys still work). */
+  .no-spin {
+    -moz-appearance: textfield;
+    appearance: textfield;
+  }
+  .no-spin::-webkit-outer-spin-button,
+  .no-spin::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+  }
+  .scrollbar-none {
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

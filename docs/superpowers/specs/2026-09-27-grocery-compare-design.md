@@ -630,3 +630,43 @@ Each spike ends with a short note in `docs/research/`.
 - **Engine:** TypeScript, with `highs` (HiGHS compiled to WebAssembly) for the optimizer.
 - **Everywhere:** zod at every boundary, vitest for tests, Playwright for the end-to-end
   test.
+
+## Build notes (2026-09-27)
+
+Decisions made while building. Where they differ from the sections above,
+these win.
+
+- **Spikes.**
+  - **S1 Blinkit — pass.** `impit` with its `chrome151` fingerprint got 10/10
+    priced searches. Its generic Chrome profile and headless Chromium were both
+    challenged, so Blinkit uses `impersonate`, not `browser`
+    ([note](../../research/2026-09-27-spike-s1-blinkit.md)).
+  - **S3 BigBasket — pass.** Replaying the site's own guest
+    "current delivery address" flow moves prices to the requested location,
+    so BB Now ships in v1 ([note](../../research/2026-09-27-spike-s3-bigbasket.md)).
+  - **S2 Zepto & Instamart** — both return live priced results through the
+    `browser` transport; see the S2 note for session lifetime and headless
+    behaviour.
+  - **S4** has not been needed from a residential IP; S1 and S2 must be re-run
+    from the VPS before launch.
+  - **S5 — pass.** HiGHS runs inside the Next.js Node route; a 60 × 6 × 3
+    basket solves well inside the bound.
+- **Pack fills** accept a pack of at least 95% of the amount, so nominal sizes
+  like 975 ml count for 1 L. An approximate weight range ("900 g – 1 kg")
+  counts as its midpoint.
+- **Matching.**
+  - Bracketed translations never decide the product type ("Spring Onion
+    (Eerulli Soppu)").
+  - A multi-word name tolerates one misspelt word when another word matches
+    exactly ("Penaut Butter").
+  - Multigrain and high-fibre are variants.
+- **Brand-locked rows are searched twice**, with and without the brand, so
+  nudges and "any brand?" offers have real alternatives to show.
+- **Store-lookup cache.** 10 minutes for Blinkit, Zepto and Instamart, because
+  they reassign dark stores within minutes. 6 hours for BigBasket, because each
+  lookup creates a guest address on their side. 24 hours for the pincode-based
+  apps.
+- **Name and look.** The UI calls the product "jhola" (a placeholder in
+  `apps/web/src/lib/site.ts`). The visual direction moved from med-compare's to
+  a neo-brutalist, Gen-Z look (Tailwind v4, Phosphor icons, motion), as the user
+  asked.

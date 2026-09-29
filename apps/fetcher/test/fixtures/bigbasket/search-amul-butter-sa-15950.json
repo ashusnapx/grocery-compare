@@ -1,0 +1,562 @@
+{
+ "is_llm_flow": false,
+ "is_llm_timeout": false,
+ "tabs": [
+  {
+   "product_info": {
+    "products": [
+     {
+      "id": "40006627",
+      "desc": "Cooking Butter - Unsalted",
+      "brand": {
+       "name": "Milky Mist"
+      },
+      "w": "500 g",
+      "absolute_url": "/pd/40006627/milky-mist-cooking-butter-unsalted-500-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "400",
+        "prim_price": {
+         "sp": "389",
+         "rsp": "400"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40006627_5-milky-mist-cooking-butter-unsalted.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40006627_5-milky-mist-cooking-butter-unsalted.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40006627_5-milky-mist-cooking-butter-unsalted.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40003152",
+        "desc": "Cooking Butter - Unsalted",
+        "brand": {
+         "name": "Milky Mist"
+        },
+        "w": "100 g",
+        "absolute_url": "/pd/40003152/milky-mist-cooking-butter-unsalted-100-g-carton/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "85",
+          "prim_price": {
+           "sp": "83",
+           "rsp": "85"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40003152_5-milky-mist-cooking-butter-unsalted.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40003152_5-milky-mist-cooking-butter-unsalted.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40003152_5-milky-mist-cooking-butter-unsalted.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40003153",
+        "desc": "Cooking Butter - Unsalted",
+        "brand": {
+         "name": "Milky Mist"
+        },
+        "w": "200 g",
+        "absolute_url": "/pd/40003153/milky-mist-cooking-butter-200-g-carton/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "160",
+          "prim_price": {
+           "sp": "156",
+           "rsp": "160"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40003153_5-milky-mist-cooking-butter.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40003153_5-milky-mist-cooking-butter.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40003153_5-milky-mist-cooking-butter.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40204110",
+      "desc": "Almond Nankhatai",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "200 g",
+      "absolute_url": "/pd/40204110/amul-almond-nankhatai-200-g-mono-carton/",
+      "category": {
+       "tlc_name": "Snacks & Branded Foods",
+       "mlc_name": "Biscuits & Cookies",
+       "llc_name": "Cookies"
+      },
+      "availability": {
+       "avail_status": "001",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "105",
+        "prim_price": {
+         "sp": "105",
+         "rsp": "105"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40204110_1-amul-almond-nankhatai.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40204110_1-amul-almond-nankhatai.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40204110_1-amul-almond-nankhatai.jpg"
+       }
+      ],
+      "children": []
+     },
+     {
+      "id": "104860",
+      "desc": "Pasteurised Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "100 g",
+      "absolute_url": "/pd/104860/amul-butter-pasteurised-100-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "63",
+        "prim_price": {
+         "sp": "63",
+         "rsp": "63"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/104860_10-amul-butter-pasteurised.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/104860_10-amul-butter-pasteurised.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/104860_10-amul-butter-pasteurised.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "104864",
+        "desc": "Pasteurised Butter",
+        "brand": {
+         "name": "Amul"
+        },
+        "w": "500 g",
+        "absolute_url": "/pd/104864/amul-butter-pasteurised-500-g-carton/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "310",
+          "prim_price": {
+           "sp": "310",
+           "rsp": "310"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/104864_8-amul-butter-pasteurised.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/104864_8-amul-butter-pasteurised.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/104864_8-amul-butter-pasteurised.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40045943",
+      "desc": "Pasteurised Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "200 g",
+      "absolute_url": "/pd/40045943/amul-butter-pasteurised-200-g-tub/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "130",
+        "prim_price": {
+         "sp": "130",
+         "rsp": "130"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40045943_1-amul-butter-pasteurised.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40045943_1-amul-butter-pasteurised.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40045943_1-amul-butter-pasteurised.jpg"
+       }
+      ],
+      "children": []
+     },
+     {
+      "id": "40069116",
+      "desc": "Unsalted Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "100 g",
+      "absolute_url": "/pd/40069116/amul-unsalted-butter-100-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "65",
+        "prim_price": {
+         "sp": "65",
+         "rsp": "65"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40069116_4-amul-unsalted-butter.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40069116_4-amul-unsalted-butter.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40069116_4-amul-unsalted-butter.jpg"
+       }
+      ],
+      "children": []
+     },
+     {
+      "id": "40018687",
+      "desc": "Garlic & Herbs Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "100 g",
+      "absolute_url": "/pd/40018687/amul-buttery-spread-garlic-herbs-100-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "75",
+        "prim_price": {
+         "sp": "75",
+         "rsp": "75"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40018687_2-amul-buttery-spread-garlic-herbs.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40018687_2-amul-buttery-spread-garlic-herbs.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40018687_2-amul-buttery-spread-garlic-herbs.jpg"
+       }
+      ],
+      "children": []
+     },
+     {
+      "id": "40109321",
+      "desc": "Pasturised Butter Chiplet",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "1 kg",
+      "absolute_url": "/pd/40109321/amul-butter-cubes-1-kg-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "630",
+        "prim_price": {
+         "sp": "630",
+         "rsp": "630"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40109321_7-amul-butter-cubes.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40109321_7-amul-butter-cubes.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40109321_7-amul-butter-cubes.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40012987",
+        "desc": "Pasturised Butter Chiplet",
+        "brand": {
+         "name": "Amul"
+        },
+        "w": "100 g",
+        "absolute_url": "/pd/40012987/amul-butter-pasteurised-school-pack-10-g-blister-pack/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "80",
+          "prim_price": {
+           "sp": "80",
+           "rsp": "80"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40012987_7-amul-butter-pasteurised-school-pack.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40012987_7-amul-butter-pasteurised-school-pack.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40012987_7-amul-butter-pasteurised-school-pack.jpg"
+         }
+        ],
+        "children": []
+       },
+       {
+        "id": "40005028",
+        "desc": "Pasturised Butter Chiplet",
+        "brand": {
+         "name": "Amul"
+        },
+        "w": "50 pcs",
+        "absolute_url": "/pd/40005028/amul-butter-chiplets-pasteurised-fresh-healthy-pure-50-pcs-carton/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "635",
+          "prim_price": {
+           "sp": "635",
+           "rsp": "635"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40005028_4-amul-butter-chiplets-pasteurised-fresh-healthy-pure.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40005028_4-amul-butter-chiplets-pasteurised-fresh-healthy-pure.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40005028_4-amul-butter-chiplets-pasteurised-fresh-healthy-pure.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     },
+     {
+      "id": "40190103",
+      "desc": "White Lactic Butter",
+      "brand": {
+       "name": "Amul"
+      },
+      "w": "500 g",
+      "absolute_url": "/pd/40190103/amul-safed-makkhanwhite-butter-salt-free-500-g-carton/",
+      "category": {
+       "tlc_name": "Bakery, Cakes & Dairy",
+       "mlc_name": "Dairy",
+       "llc_name": "Butter & Margarine"
+      },
+      "availability": {
+       "avail_status": "000",
+       "not_for_sale": false
+      },
+      "pricing": {
+       "discount": {
+        "mrp": "315",
+        "prim_price": {
+         "sp": "315",
+         "rsp": "315"
+        }
+       }
+      },
+      "visibility": {
+       "sa_id": 15950,
+       "fc_id": 1478
+      },
+      "images": [
+       {
+        "s": "https://www.bbassets.com/media/uploads/p/s/40190103_2-amul-safed-makkhanwhite-butter-salt-free.jpg",
+        "m": "https://www.bbassets.com/media/uploads/p/m/40190103_2-amul-safed-makkhanwhite-butter-salt-free.jpg",
+        "l": "https://www.bbassets.com/media/uploads/p/l/40190103_2-amul-safed-makkhanwhite-butter-salt-free.jpg"
+       }
+      ],
+      "children": [
+       {
+        "id": "40170500",
+        "desc": "White Lactic Butter",
+        "brand": {
+         "name": "Amul"
+        },
+        "w": "100 g",
+        "absolute_url": "/pd/40170500/amul-safed-makkhan-100-g-carton/",
+        "category": {
+         "tlc_name": "Bakery, Cakes & Dairy",
+         "mlc_name": "Dairy",
+         "llc_name": "Butter & Margarine"
+        },
+        "availability": {
+         "avail_status": "000",
+         "not_for_sale": false
+        },
+        "pricing": {
+         "discount": {
+          "mrp": "70",
+          "prim_price": {
+           "sp": "70",
+           "rsp": "70"
+          }
+         }
+        },
+        "visibility": {
+         "sa_id": 15950,
+         "fc_id": 1478
+        },
+        "images": [
+         {
+          "s": "https://www.bbassets.com/media/uploads/p/s/40170500_6-amul-safed-makkhan.jpg",
+          "m": "https://www.bbassets.com/media/uploads/p/m/40170500_6-amul-safed-makkhan.jpg",
+          "l": "https://www.bbassets.com/media/uploads/p/l/40170500_6-amul-safed-makkhan.jpg"
+         }
+        ],
+        "children": []
+       }
+      ]
+     }
+    ]
+   }
+  }
+ ]
+}

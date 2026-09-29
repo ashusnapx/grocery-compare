@@ -1,0 +1,28 @@
+{
+ "_note": "Trimmed from GET www.swiggy.com/api/instamart/checkout/v2/cart?pageType=INSTAMART_HOME after select-location + reload (Koramangala, pod 1396284), logged out, 2026-09-29 ~09:20 IST. statusMessage (it embeds a session JWT) removed; only comms kept. The offer nudges under couponlessOffersComms are Arata brand offers, not fees.",
+ "data": {
+  "data": {
+   "comms": {
+    "nudgeComms": {
+     "success": {
+      "text": "<b>FREE DELIVERY</b> on orders above ₹199",
+      "movCrossed": false,
+      "progressiveBarPercentage": 0
+     }
+    },
+    "couponlessOffersComms": {
+     "0fc6f04d-bb17-4b62-a08a-dc878cb5054b": {
+      "text": "Unlock <b>FLAT 10% OFF</b> on orders with Arata  items worth above ₹499",
+      "movCrossed": false
+     },
+     "a9edc395-7150-4d8f-8d27-4e7b288c852b": {
+      "text": "Unlock <b>FLAT 5% OFF</b> on orders with Arata  items worth above ₹399",
+      "movCrossed": false
+     }
+    }
+   }
+  },
+  "statusCode": 101
+ },
+ "statusCode": 0
+}
