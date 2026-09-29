@@ -1,0 +1,23 @@
+{
+  "name": "@gc/engine",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "Pure domain logic: quantities, list rows, matching, pack fills, fees and the basket optimizer. No I/O.",
+  "exports": {
+    ".": "./src/index.ts",
+    "./optimize": "./src/optimize/index.ts"
+  },
+  "scripts": {
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "highs": "^1.15.3"
+  },
+  "devDependencies": {
+    "fast-check": "^4.10.2",
+    "vitest": "^3.2.7"
+  }
+}
