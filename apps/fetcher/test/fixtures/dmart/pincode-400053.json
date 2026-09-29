@@ -1,0 +1,24 @@
+{
+ "pincode": "400053",
+ "formattedAddress": "",
+ "addressLine1": "",
+ "areaLocationId": "",
+ "showView": "false",
+ "lat": "",
+ "long": "",
+ "isPincodeServiceable": "true",
+ "storePincodeDetails": {
+  "storePincodeDetailsId": "14377",
+  "isPUPEnabled": "true",
+  "isHDEnabled": "true",
+  "pincode": "400053",
+  "storeId": "10151",
+  "state": "Maharashtra",
+  "region": "Mumbai",
+  "area": "Andheri (W)"
+ },
+ "unavailableIcon": "",
+ "unavailableTitle": "",
+ "unavailableMsg": "",
+ "suggestedPincode": []
+}

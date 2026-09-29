@@ -1,0 +1,924 @@
+{
+ "items": [
+  {
+   "type": "product",
+   "uid": 7509550,
+   "name": "Good Life Tur Dal 1 kg",
+   "slug": "good-life-tur-dal-1-kg-mffmut-7509550",
+   "sellable": true,
+   "brand": {
+    "name": "Good Life"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "163.00/kg",
+   "sizes": [
+    "1 KG"
+   ],
+   "price": {
+    "effective": {
+     "min": 163,
+     "max": 163
+    },
+    "marked": {
+     "min": 240,
+     "max": 240
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 163,
+       "max": 163
+      },
+      "marked": {
+       "min": 240,
+       "max": 240
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911872642.jpg.c8a4e1a671.jpg",
+     "type": "image",
+     "alt": "Good Life Tur Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ],
+    "product-size": "1 kg"
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 24051949,
+   "name": "Good Life Unpolished Toor Dal 500 g",
+   "slug": "good-life-unpolished-toor-dal-500-g-miedy5-24051949",
+   "sellable": true,
+   "brand": {
+    "name": "Good Life"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.18/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 88,
+     "max": 88
+    },
+    "marked": {
+     "min": 135,
+     "max": 135
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 88,
+       "max": 88
+      },
+      "marked": {
+       "min": 135,
+       "max": 135
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004928510371.jpg.396b16b9e7.jpg",
+     "type": "image",
+     "alt": "Good Life Unpolished Toor Dal 500 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 31047197,
+   "name": "Tata Sampann Unpolished Toor / Arhar Dal 500 g",
+   "slug": "tata-sampann-unpolished-toor-arhar-dal-500-g-milckm-31047197",
+   "sellable": true,
+   "brand": {
+    "name": "Tata Sampann"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.23/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 116,
+     "max": 116
+    },
+    "marked": {
+     "min": 123,
+     "max": 123
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 116,
+       "max": 116
+      },
+      "marked": {
+       "min": 123,
+       "max": 123
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.p/ng/1.png.972b129151.png",
+     "type": "image",
+     "alt": "Tata Sampann Unpolished Toor / Arhar Dal 500 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 31047718,
+   "name": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg",
+   "slug": "tata-sampann-unpolished-tur-arhar-dal-1-kg-milcks-31047718",
+   "sellable": true,
+   "brand": {
+    "name": "Tata Sampann"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "231.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 231,
+     "max": 231
+    },
+    "marked": {
+     "min": 244,
+     "max": 244
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 231,
+       "max": 231
+      },
+      "marked": {
+       "min": 244,
+       "max": 244
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004908309321.jpg.6bc7143e59.jpg",
+     "type": "image",
+     "alt": "Tata Sampann Unpolished Tur / Arhar Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 10833845,
+   "name": "24 Mantra Organic Tur Dal 1 kg",
+   "slug": "24-mantra-organic-tur-arhar-dal-1-kg-mhm7en-10833845",
+   "sellable": true,
+   "brand": {
+    "name": "24 Mantra Organic"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "284.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 284,
+     "max": 284
+    },
+    "marked": {
+     "min": 355,
+     "max": 355
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 284,
+       "max": 284
+      },
+      "marked": {
+       "min": 355,
+       "max": 355
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004912995521.jpg.f5b49a1f65.jpg",
+     "type": "image",
+     "alt": "24 Mantra Organic Tur Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7505985,
+   "name": "Sri Bhagyalakshmi Toor Dal 500 g",
+   "slug": "sri-bhagyalakshmi-toor-dal-500-g-mffmt3-7505985",
+   "sellable": true,
+   "brand": {
+    "name": "Sri Bhagyalakshmi"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.19/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 93,
+     "max": 93
+    },
+    "marked": {
+     "min": 115,
+     "max": 115
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 93,
+       "max": 93
+      },
+      "marked": {
+       "min": 115,
+       "max": 115
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004929240011.jpg.1084af3eef.jpg",
+     "type": "image",
+     "alt": "Sri Bhagyalakshmi Toor Dal 500 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7513749,
+   "name": "Pro Nature Organic Unpolished Tur / Arhar Dal 1 kg",
+   "slug": "pro-nature-organic-unpolished-tur-arhar-dal-1-kg-mffmws-7513749",
+   "sellable": true,
+   "brand": {
+    "name": "pro nature"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "276.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 276,
+     "max": 276
+    },
+    "marked": {
+     "min": 346,
+     "max": 346
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 276,
+       "max": 276
+      },
+      "marked": {
+       "min": 346,
+       "max": 346
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004903756961.jpg.c622a6bfff.jpg",
+     "type": "image",
+     "alt": "Pro Nature Organic Unpolished Tur / Arhar Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 19973098,
+   "name": "Best Farms Tur / Arhar Dal 1 kg",
+   "slug": "best-farms-tur-arhar-dal-1-kg-mi9g3q-19973098",
+   "sellable": true,
+   "brand": {
+    "name": "Best Farms"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "193.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 193,
+     "max": 193
+    },
+    "marked": {
+     "min": 285,
+     "max": 285
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 193,
+       "max": 193
+      },
+      "marked": {
+       "min": 285,
+       "max": 285
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004911683981.jpg.6eb929eaba.jpg",
+     "type": "image",
+     "alt": "Best Farms Tur / Arhar Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 11069716,
+   "name": "24 Mantra Organic Tur / Arhar Dal 500 g",
+   "slug": "24-mantra-organic-tur-arhar-dal-500-g-mhm7i4-11069716",
+   "sellable": true,
+   "brand": {
+    "name": "24 Mantra Organic"
+   },
+   "net-quantity-value": 500,
+   "net-quantity-unit": "g",
+   "net_quantity": "0.34/g",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 171,
+     "max": 171
+    },
+    "marked": {
+     "min": 180,
+     "max": 180
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 171,
+       "max": 171
+      },
+      "marked": {
+       "min": 180,
+       "max": 180
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004909220671.jpg.14d0d92b5e.jpg",
+     "type": "image",
+     "alt": "24 Mantra Organic Tur / Arhar Dal 500 g"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Toor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Toor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7742901,
+   "name": "Loose Chana Dal 1 kg",
+   "slug": "chana-dal-1-kg-mh97m7-7742901",
+   "sellable": true,
+   "brand": {
+    "name": "Loose"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "93.50/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 93,
+     "max": 93
+    },
+    "marked": {
+     "min": 93,
+     "max": 93
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 93,
+       "max": 93
+      },
+      "marked": {
+       "min": 93,
+       "max": 93
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004901550151.jpg.1f9491e4cb.jpg",
+     "type": "image",
+     "alt": "Loose Chana Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Chana Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Chana Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 76096119,
+   "name": "Loose Moong Dal 1 kg",
+   "slug": "loose-moong-dal-1-kg-mnfqax-76096119",
+   "sellable": true,
+   "brand": {
+    "name": "Loose"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "121.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 121,
+     "max": 121
+    },
+    "marked": {
+     "min": 121,
+     "max": 121
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 121,
+       "max": 121
+      },
+      "marked": {
+       "min": 121,
+       "max": 121
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004901550101.jpg.6d9568846d.jpg",
+     "type": "image",
+     "alt": "Loose Moong Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Moong Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Moong Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  },
+  {
+   "type": "product",
+   "uid": 7546715,
+   "name": "Loose Masoor Dal 1 kg",
+   "slug": "loose-masoor-dal-1-kg-mffnc3-7546715",
+   "sellable": true,
+   "brand": {
+    "name": "Loose"
+   },
+   "net-quantity-value": 1,
+   "net-quantity-unit": "kg",
+   "net_quantity": "88.00/kg",
+   "sizes": [
+    "OS"
+   ],
+   "price": {
+    "effective": {
+     "min": 88,
+     "max": 88
+    },
+    "marked": {
+     "min": 93,
+     "max": 93
+    },
+    "currency_code": "INR",
+    "currency_symbol": "₹"
+   },
+   "price_list": [
+    {
+     "journey": "quickcommerce",
+     "seller_id": 1,
+     "price": {
+      "effective": {
+       "min": 88,
+       "max": 88
+      },
+      "marked": {
+       "min": 93,
+       "max": 93
+      }
+     },
+     "store_id": 13845,
+     "is_sellable": true,
+     "discount": "",
+     "discount_meta": {}
+    }
+   ],
+   "journey": "quickcommerce",
+   "medias": [
+    {
+     "url": "https://cdn1.jiomartjcp.com/v2/catalog-cloud/jiomar/original/images/othe/egurhk/.j/pg/0000000004902009231.jpg.6d76035641.jpg",
+     "type": "image",
+     "alt": "Loose Masoor Dal 1 kg"
+    }
+   ],
+   "attributes": {
+    "vertical-code": "GROCERIES",
+    "l1-category": [
+     "Cooking Essentials"
+    ],
+    "l2-category": [
+     "Dals & Pulses"
+    ],
+    "l3-category": [
+     "Masoor Dal"
+    ]
+   },
+   "hierarchy": {
+    "l3_category": {
+     "name": "Masoor Dal"
+    }
+   },
+   "store_ids": [
+    13845
+   ]
+  }
+ ],
+ "page": {
+  "has_previous": false,
+  "has_next": true,
+  "item_total": 103,
+  "type": "cursor",
+  "next_id": "2"
+ }
+}

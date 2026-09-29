@@ -1,0 +1,1463 @@
+{
+ "_note": "Trimmed from POST www.swiggy.com/api/instamart/search/v2 (pod 1396284, \"amul butter\"), 2026-09-27. HIGH then sold-out card then LOW_CONFIDENCE fillers.",
+ "data": {
+  "statusMessage": "",
+  "cards": [
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.InlineViewFilterSortWidget"
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "gridElements": {
+       "infoWithStyle": {
+        "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "items": [
+         {
+          "productId": "TN0BERMP8A",
+          "parentProductId": "82S8AX96LS",
+          "displayName": "Amul Pasteurised Butter",
+          "brand": "Amul",
+          "inStock": false,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "HIGH_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "QJW4QH6XC3",
+            "spinId": "7MXKNLXAT3",
+            "displayName": "Amul Pasteurised Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g x 4",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "252",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "252",
+              "nanos": 0
+             },
+             "unitLevelPrice": "63/100 g"
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png"
+            ]
+           },
+           {
+            "skuId": "KI1NLKQV6R",
+            "spinId": "QD2Z47ZIIW",
+            "displayName": "Amul Pasteurised Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g x 3",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "189",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "189",
+              "nanos": 0
+             },
+             "unitLevelPrice": "63/100 g"
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png"
+            ]
+           },
+           {
+            "skuId": "2WKN4Y0BT9",
+            "spinId": "O4WS9UOMQ4",
+            "displayName": "Amul Pasteurised Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "63",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "63",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/450803f3-4b07-49e3-b2f2-ce445c4d45dd_126_1.png"
+            ]
+           }
+          ]
+         },
+         {
+          "productId": "YESNN6C8XJ",
+          "parentProductId": "GE127LW47Y",
+          "displayName": "Amul Unsalted Butter",
+          "brand": "Amul",
+          "inStock": false,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "HIGH_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "1U7IMD9ASN",
+            "spinId": "DDLU4ZWM3D",
+            "displayName": "Amul Unsalted Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g x 4",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "260",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "260",
+              "nanos": 0
+             },
+             "unitLevelPrice": "65/100 g"
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png"
+            ]
+           },
+           {
+            "skuId": "N4SRMO4KV6",
+            "spinId": "56QOG3LGIW",
+            "displayName": "Amul Unsalted Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "130",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "130",
+              "nanos": 0
+             },
+             "unitLevelPrice": "65/100 g"
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png"
+            ]
+           },
+           {
+            "skuId": "Q4N15T1628",
+            "spinId": "KKDI60WZ2V",
+            "displayName": "Amul Unsalted Butter",
+            "brandName": "Amul",
+            "quantityDescription": "100 g",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Butter",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "65",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "65",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": false
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/2/17/6ac5c1b4-5cd3-4cb5-a3f1-6c5234772c9a_2831_1.png"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.im.v1.OOSItemCollectionCard",
+      "title": "Few Items are currently sold out",
+      "items": {
+       "items": [
+        {
+         "productId": "1Q3B8GVILS",
+         "parentProductId": "VXNPCI0WCN",
+         "displayName": "Amul Safed Makkhan/White Butter",
+         "brand": "Amul",
+         "inStock": false,
+         "isAvail": true,
+         "analytics": {
+          "extraFields": {
+           "searchResultType": "HIGH_CONFIDENCE",
+           "storeIDflag": "PRIMARY"
+          }
+         },
+         "variations": [
+          {
+           "skuId": "P0CH1Y5QO9",
+           "spinId": "WU5HU5JOP1",
+           "displayName": "Amul Safed Makkhan/White Butter",
+           "brandName": "Amul",
+           "quantityDescription": "100 g",
+           "listingVariant": true,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "70",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "70",
+             "nanos": 0
+            },
+            "unitLevelPrice": ""
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/763b413e-bd42-4cc1-ba6e-54885fa9294c_5262_1.png"
+           ]
+          }
+         ]
+        },
+        {
+         "productId": "3UZLJDSGFI",
+         "parentProductId": "YG9W4MV9VN",
+         "displayName": "Amul Butter Unsalted Box",
+         "brand": "Amul",
+         "inStock": false,
+         "isAvail": true,
+         "analytics": {
+          "extraFields": {
+           "searchResultType": "HIGH_CONFIDENCE",
+           "storeIDflag": "PRIMARY"
+          }
+         },
+         "variations": [
+          {
+           "skuId": "DHVJRXT06U",
+           "spinId": "6AZCT45Y1X",
+           "displayName": "Amul Butter Unsalted Box",
+           "brandName": "Amul",
+           "quantityDescription": "500 g x 2",
+           "listingVariant": true,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "640",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "640",
+             "nanos": 0
+            },
+            "unitLevelPrice": "64/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/426e51a2-5c74-407e-b2cc-adaf3e4a7b49_3636_1.png"
+           ]
+          },
+          {
+           "skuId": "1UNI0LD3HG",
+           "spinId": "BQRY6LMG9O",
+           "displayName": "Amul Butter Unsalted Box",
+           "brandName": "Amul",
+           "quantityDescription": "500 g",
+           "listingVariant": false,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "320",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "320",
+             "nanos": 0
+            },
+            "unitLevelPrice": "64/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/426e51a2-5c74-407e-b2cc-adaf3e4a7b49_3636_1.png"
+           ]
+          }
+         ]
+        },
+        {
+         "productId": "QXBIOH3DXP",
+         "parentProductId": "AFNFX64R1R",
+         "displayName": "Amul Garlic & Herbs Butter",
+         "brand": "Amul",
+         "inStock": false,
+         "isAvail": true,
+         "analytics": {
+          "extraFields": {
+           "searchResultType": "HIGH_CONFIDENCE",
+           "storeIDflag": "PRIMARY"
+          }
+         },
+         "variations": [
+          {
+           "skuId": "R0N9Z089V4",
+           "spinId": "PL7CFF6B7K",
+           "displayName": "Amul Garlic & Herbs Butter",
+           "brandName": "Amul",
+           "quantityDescription": "100 g x 4",
+           "listingVariant": true,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "300",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "300",
+             "nanos": 0
+            },
+            "unitLevelPrice": "75/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/67c253ec-fb25-4ee2-ab54-ad3f463d57c4_128_1.png"
+           ]
+          },
+          {
+           "skuId": "6PNBR8C3MN",
+           "spinId": "OI3SMP6GPS",
+           "displayName": "Amul Garlic & Herbs Butter",
+           "brandName": "Amul",
+           "quantityDescription": "100 g x 3",
+           "listingVariant": false,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "225",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "225",
+             "nanos": 0
+            },
+            "unitLevelPrice": "75/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/67c253ec-fb25-4ee2-ab54-ad3f463d57c4_128_1.png"
+           ]
+          },
+          {
+           "skuId": "A94M59U60T",
+           "spinId": "2UWS516ZKJ",
+           "displayName": "Amul Garlic & Herbs Butter",
+           "brandName": "Amul",
+           "quantityDescription": "100 g",
+           "listingVariant": false,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "75",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "75",
+             "nanos": 0
+            },
+            "unitLevelPrice": ""
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/67c253ec-fb25-4ee2-ab54-ad3f463d57c4_128_1.png"
+           ]
+          }
+         ]
+        },
+        {
+         "productId": "Q2RJOOQUB5",
+         "parentProductId": "6L6TOQPYDJ",
+         "displayName": "Amul Pasteurised Butter",
+         "brand": "Amul",
+         "inStock": false,
+         "isAvail": true,
+         "analytics": {
+          "extraFields": {
+           "searchResultType": "HIGH_CONFIDENCE",
+           "storeIDflag": "PRIMARY"
+          }
+         },
+         "variations": [
+          {
+           "skuId": "70MTAGF9SD",
+           "spinId": "RHS1OJX5GO",
+           "displayName": "Amul Pasteurised Butter",
+           "brandName": "Amul",
+           "quantityDescription": "200 g x 5",
+           "listingVariant": true,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "650",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "650",
+             "nanos": 0
+            },
+            "unitLevelPrice": "65/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/dc951ebc-8949-4d52-a217-0c7928d047ff_2832_1.png"
+           ]
+          },
+          {
+           "skuId": "NHDICK8VDQ",
+           "spinId": "L42ZZEEZM4",
+           "displayName": "Amul Pasteurised Butter",
+           "brandName": "Amul",
+           "quantityDescription": "200 g x 3",
+           "listingVariant": false,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "390",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "390",
+             "nanos": 0
+            },
+            "unitLevelPrice": "65/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/dc951ebc-8949-4d52-a217-0c7928d047ff_2832_1.png"
+           ]
+          },
+          {
+           "skuId": "L3YR2S9FUP",
+           "spinId": "4AJUM2TQIR",
+           "displayName": "Amul Pasteurised Butter",
+           "brandName": "Amul",
+           "quantityDescription": "200 g",
+           "listingVariant": false,
+           "podId": "1396284",
+           "category": "Butter",
+           "superCategory": "Dairy, Bread and Eggs",
+           "price": {
+            "mrp": {
+             "currencyCode": "INR",
+             "units": "130",
+             "nanos": 0
+            },
+            "offerPrice": {
+             "currencyCode": "INR",
+             "units": "130",
+             "nanos": 0
+            },
+            "unitLevelPrice": "65/100 g"
+           },
+           "inventory": {
+            "inStock": false
+           },
+           "imageIds": [
+            "NI_CATALOG/IMAGES/CIW/2026/2/17/dc951ebc-8949-4d52-a217-0c7928d047ff_2832_1.png"
+           ]
+          }
+         ]
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "gridElements": {
+       "infoWithStyle": {
+        "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "items": [
+         {
+          "productId": "YXTS7AL980",
+          "parentProductId": "RDOZ18ST5Q",
+          "displayName": "NOICE Bombay Laadi Pav (Freshly made)",
+          "brand": "NOICE",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "8K41CJR55F",
+            "spinId": "OGAO6QN53Q",
+            "displayName": "NOICE Bombay Laadi Pav (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "240 g x 3",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "207",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "117",
+              "nanos": 0
+             },
+             "unitLevelPrice": "16.3/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/5/27/1a435e3f-8981-4b92-916b-e67882b794e8_R1DKTC2LO0_1.jpg"
+            ]
+           },
+           {
+            "skuId": "OK811T2DKY",
+            "spinId": "56RMVUEECN",
+            "displayName": "NOICE Bombay Laadi Pav (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "240 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "138",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "78",
+              "nanos": 0
+             },
+             "unitLevelPrice": "16.3/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/5/27/1a435e3f-8981-4b92-916b-e67882b794e8_R1DKTC2LO0_1.jpg"
+            ]
+           },
+           {
+            "skuId": "Y02RUO89PT",
+            "spinId": "R1DKTC2LO0",
+            "displayName": "NOICE Bombay Laadi Pav (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "240 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "69",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "39",
+              "nanos": 0
+             },
+             "unitLevelPrice": "16.3/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/5/27/1a435e3f-8981-4b92-916b-e67882b794e8_R1DKTC2LO0_1.jpg"
+            ]
+           }
+          ]
+         },
+         {
+          "productId": "NNDE3EIW8M",
+          "parentProductId": "AZJ6GPAR3A",
+          "displayName": "NOICE Golden Sweet Bun (Freshly made)",
+          "brand": "NOICE",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "ZY7JPT5D22",
+            "spinId": "BVT15LSTR8",
+            "displayName": "NOICE Golden Sweet Bun (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "100 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "118",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "70",
+              "nanos": 0
+             },
+             "unitLevelPrice": "35/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/6/20/02d27429-8f3a-41aa-ba03-adbb41ed0255_9MKX578Z9L_mn.png"
+            ]
+           },
+           {
+            "skuId": "786MOKULPK",
+            "spinId": "9MKX578Z9L",
+            "displayName": "NOICE Golden Sweet Bun (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "100 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "59",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "35",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/6/20/02d27429-8f3a-41aa-ba03-adbb41ed0255_9MKX578Z9L_mn.png"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "gridElements": {
+       "infoWithStyle": {
+        "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "items": [
+         {
+          "productId": "LH8D799UZM",
+          "parentProductId": "AGKSVZW01N",
+          "displayName": "NOICE Fresh Butter Croissant (Freshly made)",
+          "brand": "NOICE",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "59YXIRJA93",
+            "spinId": "DGP09KZ98B",
+            "displayName": "NOICE Fresh Butter Croissant (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "90 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "278",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "138",
+              "nanos": 0
+             },
+             "unitLevelPrice": "76.7/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/11/20/a81a972c-ad4d-4c27-9327-d436d73ba81e_9UOBHU5L0U_MN_20112025.jpg"
+            ]
+           },
+           {
+            "skuId": "4OFWS8FV62",
+            "spinId": "9UOBHU5L0U",
+            "displayName": "NOICE Fresh Butter Croissant (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "90 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "139",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "69",
+              "nanos": 0
+             },
+             "unitLevelPrice": "76.7/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/11/20/a81a972c-ad4d-4c27-9327-d436d73ba81e_9UOBHU5L0U_MN_20112025.jpg"
+            ]
+           }
+          ]
+         },
+         {
+          "productId": "NNAC7HP8S6",
+          "parentProductId": "V9AFPJ00Y7",
+          "displayName": "Amul Masti Spiced Buttermilk",
+          "brand": "Amul",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "V0PLZAUMM0",
+            "spinId": "FRFDWLFLMJ",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "1 ltr x 4",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "280",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "280",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/11496ab5-6f48-413a-9942-c474536f5321_V4PCT4OT99_MN_16122025.png"
+            ]
+           },
+           {
+            "skuId": "324KIJ9R88",
+            "spinId": "4C56A2AG2V",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "1 ltr x 3",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "210",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "210",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/11496ab5-6f48-413a-9942-c474536f5321_V4PCT4OT99_MN_16122025.png"
+            ]
+           },
+           {
+            "skuId": "YL4DPMYCLZ",
+            "spinId": "ILOAG916GM",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "1 ltr x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "140",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "140",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/11496ab5-6f48-413a-9942-c474536f5321_V4PCT4OT99_MN_16122025.png"
+            ]
+           },
+           {
+            "skuId": "CT2COPMNC4",
+            "spinId": "V4PCT4OT99",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "1 ltr",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "70",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "70",
+              "nanos": 0
+             },
+             "unitLevelPrice": ""
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/11496ab5-6f48-413a-9942-c474536f5321_V4PCT4OT99_MN_16122025.png"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "gridElements": {
+       "infoWithStyle": {
+        "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "items": [
+         {
+          "productId": "IX8H30PL2E",
+          "parentProductId": "4IP9IG1X1L",
+          "displayName": "Amul Fresh Paneer",
+          "brand": "Amul",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "FD8T4A9J4X",
+            "spinId": "KHSF7TL2EE",
+            "displayName": "Amul Fresh Paneer",
+            "brandName": "Amul",
+            "quantityDescription": "200 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Paneer and Cream",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "210",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "210",
+              "nanos": 0
+             },
+             "unitLevelPrice": "52.5/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/8/8/de2e7a8d-4721-4d54-bb37-d1dc8a98a1a1_2844_1.png"
+            ]
+           },
+           {
+            "skuId": "PGBVKMRFOJ",
+            "spinId": "2C6V5PBANE",
+            "displayName": "Amul Fresh Paneer",
+            "brandName": "Amul",
+            "quantityDescription": "200 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Paneer and Cream",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "105",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "105",
+              "nanos": 0
+             },
+             "unitLevelPrice": "52.5/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2026/8/8/de2e7a8d-4721-4d54-bb37-d1dc8a98a1a1_2844_1.png"
+            ]
+           }
+          ]
+         },
+         {
+          "productId": "3QYXTLFZ3X",
+          "parentProductId": "38ZHXTMGXT",
+          "displayName": "NOICE Punjabi Garlic Kulcha (Freshly made)",
+          "brand": "NOICE",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "ZWYC0YTQR1",
+            "spinId": "VANVRZUBS0",
+            "displayName": "NOICE Punjabi Garlic Kulcha (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "150 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "130",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "78",
+              "nanos": 0
+             },
+             "unitLevelPrice": "26/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/5/27/19658666-8989-4d18-b02a-26cdd1dff5ba_PHIQK6T56B_1.jpg"
+            ]
+           },
+           {
+            "skuId": "Y7A1JJK5L9",
+            "spinId": "PHIQK6T56B",
+            "displayName": "NOICE Punjabi Garlic Kulcha (Freshly made)",
+            "brandName": "NOICE",
+            "quantityDescription": "150 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Bread and Buns",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "65",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "39",
+              "nanos": 0
+             },
+             "unitLevelPrice": "26/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/CIW/2025/5/27/19658666-8989-4d18-b02a-26cdd1dff5ba_PHIQK6T56B_1.jpg"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+   },
+   {
+    "card": {
+     "card": {
+      "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+      "gridElements": {
+       "infoWithStyle": {
+        "@type": "type.googleapis.com/swiggy.im.v1.ItemCollectionCard",
+        "items": [
+         {
+          "productId": "BNMU4BIUIA",
+          "parentProductId": "V8KFZEQ60P",
+          "displayName": "Mother Dairy Fresh Paneer",
+          "brand": "Mother Dairy",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "MJ7118IW8K",
+            "spinId": "BCIQ0WPVXH",
+            "displayName": "Mother Dairy Fresh Paneer",
+            "brandName": "Mother Dairy",
+            "quantityDescription": "200 g x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Paneer and Cream",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "184",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "184",
+              "nanos": 0
+             },
+             "unitLevelPrice": "46/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/92bec206-dda8-454c-8c9e-df625bc1963f_SIN3I7HTTZ_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "Z3X3RLCHZP",
+            "spinId": "SIN3I7HTTZ",
+            "displayName": "Mother Dairy Fresh Paneer",
+            "brandName": "Mother Dairy",
+            "quantityDescription": "200 g",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Paneer and Cream",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "92",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "92",
+              "nanos": 0
+             },
+             "unitLevelPrice": "46/100 g"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/92bec206-dda8-454c-8c9e-df625bc1963f_SIN3I7HTTZ_MN_17122025.png"
+            ]
+           }
+          ]
+         },
+         {
+          "productId": "0SG7UDYG63",
+          "parentProductId": "4M0KBVDIZT",
+          "displayName": "Amul Masti Spiced Buttermilk",
+          "brand": "Amul",
+          "inStock": true,
+          "isAvail": true,
+          "analytics": {
+           "extraFields": {
+            "searchResultType": "LOW_CONFIDENCE",
+            "storeIDflag": "PRIMARY"
+           }
+          },
+          "variations": [
+           {
+            "skuId": "XP2BYSWK5J",
+            "spinId": "CV32T9M7FV",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml x 12",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "180",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "180",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "IWKKWI04MA",
+            "spinId": "3RW16DJXPD",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml x 6",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "90",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "90",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "8ZJTXT1OG7",
+            "spinId": "L1MI4Z8DSR",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml x 4",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "60",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "60",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "NNPM1X4WN4",
+            "spinId": "7P7RZLS7AF",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml x 3",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "45",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "45",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "LIX9QP0OXC",
+            "spinId": "TUO02HK5T4",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml x 2",
+            "listingVariant": false,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "30",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "30",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           },
+           {
+            "skuId": "TV26RH4HYR",
+            "spinId": "B2GQYI889T",
+            "displayName": "Amul Masti Spiced Buttermilk",
+            "brandName": "Amul",
+            "quantityDescription": "200 ml",
+            "listingVariant": true,
+            "podId": "1396284",
+            "category": "Milk Based Drinks",
+            "superCategory": "Dairy, Bread and Eggs",
+            "price": {
+             "mrp": {
+              "currencyCode": "INR",
+              "units": "15",
+              "nanos": 0
+             },
+             "offerPrice": {
+              "currencyCode": "INR",
+              "units": "15",
+              "nanos": 0
+             },
+             "unitLevelPrice": "7.5/100 ml"
+            },
+            "inventory": {
+             "inStock": true
+            },
+            "imageIds": [
+             "NI_CATALOG/IMAGES/ciw/2025/12/17/397ba0ab-de18-4f59-97d3-edc4eee0b209_B2GQYI889T_MN_17122025.png"
+            ]
+           }
+          ]
+         }
+        ]
+       }
+      }
+     }
+    }
+   }
+  ],
+  "statusCode": 0
+ },
+ "statusCode": 0
+}

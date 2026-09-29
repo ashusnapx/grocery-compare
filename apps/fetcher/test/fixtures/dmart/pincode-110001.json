@@ -1,0 +1,17 @@
+{
+ "pincode": "110001",
+ "formattedAddress": "",
+ "addressLine1": "",
+ "areaLocationId": "",
+ "showView": "false",
+ "lat": "",
+ "long": "",
+ "isPincodeServiceable": "false",
+ "storePincodeDetails": {
+  "storePincodeDetailsId": ""
+ },
+ "unavailableIcon": "/ic_service_unavalible.png",
+ "unavailableTitle": "Area Not Serviceable",
+ "unavailableMsg": "We don't deliver to this location yet. Please choose a different area to continue shopping.",
+ "suggestedPincode": []
+}

@@ -1,0 +1,64 @@
+{
+ "primaryStore": {
+  "etaInMinutes": "12",
+  "isDeliverable": true,
+  "isNightlyStore": false,
+  "serviceable": true,
+  "storeConstruct": "PRIMARY_STORE",
+  "storeId": "bf1b6356-328b-4cfa-840e-0b555dab374f"
+ },
+ "secondaryStore": {
+  "etaInMinutes": "27",
+  "isDeliverable": true,
+  "isNightlyStore": false,
+  "serviceable": true,
+  "storeConstruct": "SECONDARY_STORE",
+  "storeId": "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da"
+ },
+ "storesData": {
+  "bf1b6356-328b-4cfa-840e-0b555dab374f": {
+   "etaInMinutes": "12",
+   "isDeliverable": true,
+   "isNightlyStore": false,
+   "serviceable": true,
+   "storeConstruct": "PRIMARY_STORE",
+   "storeId": "bf1b6356-328b-4cfa-840e-0b555dab374f"
+  },
+  "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da": {
+   "etaInMinutes": "27",
+   "isDeliverable": true,
+   "isNightlyStore": false,
+   "serviceable": true,
+   "storeConstruct": "SECONDARY_STORE",
+   "storeId": "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da"
+  },
+  "5e36e56b-2449-4262-b397-f8af3464f5e3": {
+   "etaInMinutes": "26",
+   "isDeliverable": true,
+   "isNightlyStore": false,
+   "serviceable": true,
+   "storeConstruct": "TERTIARY_STORE",
+   "storeId": "5e36e56b-2449-4262-b397-f8af3464f5e3"
+  },
+  "ec682ef5-2217-4c8f-8765-9fd4f3cca8a7": {
+   "etaInMinutes": "29",
+   "isDeliverable": true,
+   "isNightlyStore": false,
+   "serviceable": true,
+   "storeConstruct": "TERTIARY_STORE",
+   "storeId": "ec682ef5-2217-4c8f-8765-9fd4f3cca8a7"
+  }
+ },
+ "tertiaryStoreIds": [
+  "5e36e56b-2449-4262-b397-f8af3464f5e3",
+  "ec682ef5-2217-4c8f-8765-9fd4f3cca8a7"
+ ],
+ "etaInformation": {
+  "secondaryText": "12 minutes"
+ },
+ "storeDetailedInfo": {
+  "city": "Bengaluru",
+  "name": "BLR-27th Main Road"
+ },
+ "timeSaved": 1790504233491
+}

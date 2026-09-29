@@ -1,0 +1,785 @@
+{
+ "totalRecords": 13,
+ "products": [
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Swaad",
+   "name": "DMart Swaad Toor Dal (Togari Bele)",
+   "seo_token_ntk": "dmart-swaad-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1697526",
+   "targetUrl": "/pdp/1697526",
+   "sKUs": [
+    {
+     "name": "DMart Swaad Toor Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "1693527",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "192.00",
+     "priceSALE": "145.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "FEB110004839xx14FEB25",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Premia",
+   "name": "DMart Premia Tur Dal Latur (Togari bele)",
+   "seo_token_ntk": "tur-dal-latur",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "137026",
+   "targetUrl": "/pdp/137026",
+   "sKUs": [
+    {
+     "name": "DMart Premia Tur Dal Latur (Togari bele) : 500 gms",
+     "skuUniqueID": "1389089",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "109.00",
+     "priceSALE": "72.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "OCT110004158xx18OCT23",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "DMart Premia Tur Dal Latur (Togari Bele) : 1 kg",
+     "skuUniqueID": "1389088",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "199.00",
+     "priceSALE": "153.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "SEP110004157xx19SEP23",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Premia",
+   "name": "DMart Premia Tur Dal Premium Gujarat (Togari Bele)",
+   "seo_token_ntk": "dmart-premia-tur-dal-premium-gujarat",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1388615",
+   "targetUrl": "/pdp/1388615",
+   "sKUs": [
+    {
+     "name": "DMart Premia Tur Dal Premium Gujarat (Togari Bele) : 500 gms",
+     "skuUniqueID": "1389091",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "127.00",
+     "priceSALE": "91.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "FEB110004160xx28FEB24",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "DMart Premia Tur Dal Premium Gujarat (Togari Bele) : 1 kg",
+     "skuUniqueID": "1389090",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "233.00",
+     "priceSALE": "179.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "DEC110004159xx11DEC23",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Parry's",
+   "name": "Parry's Toor Dal Unpolished (Togari Bele)",
+   "seo_token_ntk": "parrys-toor-dal-unpolished",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "1650070",
+   "targetUrl": "/pdp/1650070",
+   "sKUs": [
+    {
+     "name": "Parry's Toor Dal Unpolished (Togari Bele) : 1 kg",
+     "skuUniqueID": "1648021",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "210.00",
+     "priceSALE": "167.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "OCT110004599xx10OCT24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Bhagyalakshmi",
+   "name": "Bhagyalakshmi Toor Dal (Togari Bele)",
+   "seo_token_ntk": "bhagyalakshmi-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "1575537",
+   "targetUrl": "/pdp/1575537",
+   "sKUs": [
+    {
+     "name": "Bhagyalakshmi Toor Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "1575021",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "230.00",
+     "priceSALE": "190.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "MAY110004431xx14MAY24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Tata Sampann",
+   "name": "Tata Sampann 100% Organic Unpolished Toor Dal (Togari Bele)",
+   "seo_token_ntk": "tata-sampann-organic-unpolished-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "658839",
+   "targetUrl": "/pdp/658839",
+   "sKUs": [
+    {
+     "name": "Tata Sampann 100% Organic Unpolished Toor Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "672505",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "285.00",
+     "priceSALE": "210.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "AUG110001406xx2AUG26vvG1kg",
+     "imgCode": "6",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Healthy Choice",
+   "name": "DMart Healthy Choice Unpolished Toor Dal (Togari bele)",
+   "seo_token_ntk": "dmart-healthy-choice-unpolished-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "425514",
+   "targetUrl": "/pdp/425514",
+   "sKUs": [
+    {
+     "name": "DMart Healthy Choice Unpolished Toor Dal (Togari bele) : 1 kg",
+     "skuUniqueID": "428501",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "230.00",
+     "priceSALE": "218.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "Oct110001147xx21Oct25vvG",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Organic Tattva",
+   "name": "Organic Tattva Arhar Tur Dal (Togari Bele)",
+   "seo_token_ntk": "organic-tattva-arhar-tur-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "627683",
+   "targetUrl": "/pdp/627683",
+   "sKUs": [
+    {
+     "name": "Organic Tattva Arhar Tur Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "631507",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "325.00",
+     "priceSALE": "181.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "JUN110001347xx9JUN22",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Udhaiyam",
+   "name": "Udhaiyam Toor Dhall (Togari Bele)",
+   "seo_token_ntk": "udhaiyam-toor-dhall-(dal)-pturdal0udha3xx30223",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "1253053",
+   "targetUrl": "/pdp/1253053",
+   "sKUs": [
+    {
+     "name": "Udhaiyam Toor Dhall (Togari Bele) : 500 g",
+     "skuUniqueID": "1169017",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "94.00",
+     "priceSALE": "75.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "JAN110003618xx20JAN23",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Popular Essentials",
+   "name": "Popular Essentials Select Toor Dal (Togari Bele)",
+   "seo_token_ntk": "popular-essentials-select-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "1723202",
+   "targetUrl": "/pdp/1723202",
+   "sKUs": [
+    {
+     "name": "Popular Essentials Select Toor Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "1720522",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "230.00",
+     "priceSALE": "152.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "MAR110004977xx27MAR25",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "24 Mantra Organic",
+   "name": "24 Mantra Organic Tur Dal (Togari Bele)",
+   "seo_token_ntk": "24-mantra-organic-tur-dal-pturdal024m47xx130520",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "720256",
+   "targetUrl": "/pdp/720256",
+   "sKUs": [
+    {
+     "name": "24 Mantra Organic Tur dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "251504",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "295.00",
+     "priceSALE": "250.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "JUL110000999xx18JUL25",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Popular Organics",
+   "name": "Popular Organics Organic Toor Dal (Togari Bele)",
+   "seo_token_ntk": "popular-organics-organic-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "1723207",
+   "targetUrl": "/pdp/1723207",
+   "sKUs": [
+    {
+     "name": "Popular Organics Organic Toor Dal (Togari Bele) : 1 kg",
+     "skuUniqueID": "1720527",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "265.00",
+     "priceSALE": "212.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "MAR110004982xx27MAR25",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Premia",
+   "name": "DMart Premia Dal Khichadi (Dal / Rice Mix)",
+   "seo_token_ntk": "dmart-premia-dal-khichadi",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1388539",
+   "targetUrl": "/pdp/1388539",
+   "sKUs": [
+    {
+     "name": "DMart Premia Dal Khichadi (Dal / Rice Mix) : 500 g",
+     "skuUniqueID": "1389014",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "68.00",
+     "priceSALE": "46.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "500 g",
+     "productImageKey": "FEB110004082xx9FEB24",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Swaad",
+   "name": "DMart Swaad Chana Dal",
+   "seo_token_ntk": "dmart-swaad-chana-dal",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1697522",
+   "targetUrl": "/pdp/1697522",
+   "sKUs": [
+    {
+     "name": "DMart Swaad Chana Dal : 1 kg",
+     "skuUniqueID": "1693523",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "130.00",
+     "priceSALE": "99.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "FEB110004835xx14FEB25",
+     "imgCode": "3",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Swaad",
+   "name": "DMart Swaad Moong Dal",
+   "seo_token_ntk": "dmart-swaad-moong-dal",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1697523",
+   "targetUrl": "/pdp/1697523",
+   "sKUs": [
+    {
+     "name": "DMart Swaad Moong Dal : 1 kg",
+     "skuUniqueID": "1693524",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "158.00",
+     "priceSALE": "117.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "FEB110004836xx14FEB25",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "DMart Swaad",
+   "name": "DMart Swaad Masoor Dal",
+   "seo_token_ntk": "dmart-swaad-masoor-dal",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "DMart Grocery"
+    },
+    {
+     "level": "L3",
+     "name": "Dals & Pulses"
+    }
+   ],
+   "productId": "1702541",
+   "targetUrl": "/pdp/1702541",
+   "sKUs": [
+    {
+     "name": "DMart Swaad Masoor Dal : 1 kg",
+     "skuUniqueID": "1702022",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "123.00",
+     "priceSALE": "95.00",
+     "invStatus": "2",
+     "invType": "A",
+     "variantTextValue": "1 kg",
+     "productImageKey": "FEB110004910xx26FEB25",
+     "imgCode": "4",
+     "defaultVariant": "Y"
+    }
+   ]
+  }
+ ],
+ "oosProducts": [
+  {
+   "buyable": "true",
+   "manufacturer": "Tata Sampann",
+   "name": "Tata Sampann Toor Dal (Togari Bele)",
+   "seo_token_ntk": "tata-sampann-toor-dal",
+   "categoryName": "Grocery",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Tur Dal"
+    }
+   ],
+   "productId": "96573",
+   "targetUrl": "/pdp/96573",
+   "sKUs": [
+    {
+     "name": "Tata Sampann Toor Dal (Togari Bele) : 500 gms",
+     "skuUniqueID": "149009",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "118.00",
+     "priceSALE": "86.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "500 g",
+     "productImageKey": "JUN110000922xx9JUN22",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    },
+    {
+     "name": "Tata Sampann Unpolish Toor Dal (Togari Bele) : 2 kg",
+     "skuUniqueID": "1710541",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "468.00",
+     "priceSALE": "316.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "2 kg",
+     "productImageKey": "MAR110004938xx14MAR25",
+     "imgCode": "5",
+     "defaultVariant": "N"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Tata Sampann",
+   "name": "Tata Sampann Moong Chilka (Hesarubele)",
+   "seo_token_ntk": "tata-sampann-moong-chilka",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Moong Dal"
+    }
+   ],
+   "productId": "148515",
+   "targetUrl": "/pdp/148515",
+   "sKUs": [
+    {
+     "name": "Tata Sampann Moong Chilka (Hesarubele) : 500 gms",
+     "skuUniqueID": "149006",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "101.00",
+     "priceSALE": "80.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "500 g",
+     "productImageKey": "SEP110000919xx1SEP26vvG500g",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  },
+  {
+   "buyable": "true",
+   "manufacturer": "Udhaiyam",
+   "name": "Udhaiyam Orid Dhall (Dal)",
+   "seo_token_ntk": "udhaiyam-orid-dhall-(dal)-puraddal0udha95xx30223",
+   "categoryMap": [
+    {
+     "level": "L1",
+     "name": "Grocery"
+    },
+    {
+     "level": "L2",
+     "name": "Dals"
+    },
+    {
+     "level": "L3",
+     "name": "Urad Dal"
+    }
+   ],
+   "productId": "1253050",
+   "targetUrl": "/pdp/1253050",
+   "sKUs": [
+    {
+     "name": "Udhaiyam Orid Dhall (Dal) : 1 kg",
+     "skuUniqueID": "1169014",
+     "buyable": "true",
+     "availabilityType": "A",
+     "priceMRP": "182.00",
+     "priceSALE": "149.00",
+     "invStatus": "0",
+     "invType": "OOS",
+     "variantTextValue": "1 kg",
+     "productImageKey": "JAN110003615xx20JAN23",
+     "imgCode": "5",
+     "defaultVariant": "Y"
+    }
+   ]
+  }
+ ],
+ "oosPosition": "5"
+}

@@ -1,0 +1,48 @@
+{
+ "_note": "GET www.jiomart.com/ext/jmshipmentfee/delivery_fee/v1.0/quote?store_code=TM3D with x-application-id (the public storefront id), logged out, 2026-09-29. Unmodified.",
+ "result": {
+  "delivery_fee_list": [
+   {
+    "config_name": "JIOMARTLITE",
+    "free_shipping_threshold": 399,
+    "shipping_fee": 30
+   },
+   {
+    "config_name": "SMART_BAZAAR_BASKET",
+    "free_shipping_threshold": 199,
+    "shipping_fee": 30,
+    "store_cohort": {
+     "cohort_id": "Default",
+     "cohort_matched": false,
+     "cohorts_considered": [
+      "16607"
+     ],
+     "resolution_tier": 3,
+     "resolution": "store_cohort",
+     "store_code": "TM3D"
+    }
+   },
+   {
+    "config_name": "JIOMART_BASKET",
+    "free_shipping_threshold": 1,
+    "shipping_fee": 0
+   },
+   {
+    "config_name": "WHATSAPP",
+    "free_shipping_threshold": 1,
+    "shipping_fee": 0
+   },
+   {
+    "config_name": "STORE_BASKET_ALCOHOL",
+    "free_shipping_threshold": null,
+    "shipping_fee": null
+   },
+   {
+    "config_name": "STORE_BASKET_FLOWERS",
+    "free_shipping_threshold": null,
+    "shipping_fee": null
+   }
+  ]
+ },
+ "response_time": "2026-09-29 09:06:08"
+}

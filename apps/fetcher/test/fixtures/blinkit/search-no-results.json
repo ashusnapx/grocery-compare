@@ -1,0 +1,20 @@
+{
+ "is_success": true,
+ "response": {
+  "snippets": [
+   {
+    "widget_type": "separator_v2_data",
+    "data": {}
+   }
+  ],
+  "tracking": {
+   "le_meta": {
+    "custom_data": {
+     "search_actual_keyword": "xqzvbnmwk",
+     "search_input_keyword": "xqzvbnmwk",
+     "search_result_count": "0"
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "_note": "Trimmed from GET bff-gateway.zepto.com/lms/api/v2/get_page?latitude=12.9352&longitude=77.6245&page_type=HOME..., 2026-09-27.",
+ "storeServiceableResponse": {
+  "isNightlyStore": false,
+  "secondaryStoreIds": [
+   "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da"
+  ],
+  "serviceable": true,
+  "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a"
+ },
+ "storeServiceableResponseV2": [
+  {
+   "serviceable": true,
+   "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+   "storeConstruct": "PRIMARY_STORE",
+   "isNightlyStore": false
+  },
+  {
+   "serviceable": true,
+   "storeId": "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da",
+   "storeConstruct": "SECONDARY_STORE",
+   "isNightlyStore": false
+  }
+ ],
+ "storeServiceableInfo": {
+  "storeServiceability": {
+   "data": {
+    "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da": {
+     "cost": 11585,
+     "eta": 27,
+     "type": "SECONDARY_STORE"
+    },
+    "5e36e56b-2449-4262-b397-f8af3464f5e3": {
+     "cost": 11369,
+     "eta": 23,
+     "type": "TERTIARY_STORE"
+    },
+    "796c71f3-568e-4d6d-8767-87285ad4f23a": {
+     "cost": 597,
+     "eta": 10,
+     "type": "PRIMARY_STORE"
+    }
+   }
+  }
+ },
+ "pageLayout": {
+  "header": {
+   "widget": {
+    "widgetName": "ETA_BANNER",
+    "data": {
+     "etaInfo": {
+      "etaInMinutes": "10",
+      "secondaryText": "10 minutes",
+      "displayText": "Delivery In",
+      "isDeliverable": true,
+      "etaServiceableInfo": [
+       {
+        "cost": 597,
+        "deliverableSubtype": "ETA_NORMAL",
+        "etaInMinutes": 10,
+        "isDeliverable": true,
+        "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a"
+       },
+       {
+        "cost": 11585,
+        "deliverableSubtype": "ETA_NORMAL",
+        "etaInMinutes": 27,
+        "isDeliverable": true,
+        "storeId": "3bf7d17f-4fa3-481d-b14d-66ca5c4f14da"
+       },
+       {
+        "cost": 11369,
+        "etaInMinutes": 23,
+        "isDeliverable": true,
+        "storeId": "5e36e56b-2449-4262-b397-f8af3464f5e3"
+       }
+      ]
+     }
+    }
+   }
+  }
+ },
+ "storeDetailsResponse": {
+  "city": {
+   "country": "India",
+   "name": "Bengaluru",
+   "state": "Karnataka"
+  },
+  "name": "BLR-BTM Layout Network-3",
+  "id": "796c71f3-568e-4d6d-8767-87285ad4f23a"
+ },
+ "unserviceableDetails": null
+}

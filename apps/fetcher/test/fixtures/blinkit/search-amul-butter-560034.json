@@ -1,0 +1,477 @@
+{
+ "is_success": true,
+ "response": {
+  "snippets": [
+   {
+    "widget_type": "image_text_vr_type_header",
+    "data": {
+     "identity": {
+      "id": "product_container"
+     },
+     "title": {
+      "text": "Showing results for \"amul butter\""
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "427609"
+     },
+     "product_id": "427609",
+     "group_id": 1914957,
+     "name": {
+      "text": "Amul Lite Milk Fat Spread"
+     },
+     "brand_name": {
+      "text": "Amul Lite"
+     },
+     "variant": {
+      "text": "100 g"
+     },
+     "normal_price": {
+      "text": "₹50"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 1,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/5981f9ee-7eb8-4ec3-8467-82f6d206de7d.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 427609,
+        "merchant_id": 40076,
+        "product_name": "Amul Lite Milk Fat Spread",
+        "price": 50,
+        "mrp": 50,
+        "unit": "100 g",
+        "inventory": 1,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/5981f9ee-7eb8-4ec3-8467-82f6d206de7d.png"
+       }
+      }
+     },
+     "variant_list": [
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "427609"
+        },
+        "product_id": "427609",
+        "group_id": 1914957,
+        "name": {
+         "text": "Amul Lite Milk Fat Spread"
+        },
+        "brand_name": {
+         "text": "Amul Lite"
+        },
+        "variant": {
+         "text": "100 g"
+        },
+        "normal_price": {
+         "text": "₹50"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "available",
+        "is_sold_out": false,
+        "inventory": 1,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/5981f9ee-7eb8-4ec3-8467-82f6d206de7d.png"
+        },
+        "eta_tag": {
+         "title": {
+          "text": "earliest"
+         },
+         "image": {
+          "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+         }
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 427609,
+           "merchant_id": 40076,
+           "product_name": "Amul Lite Milk Fat Spread",
+           "price": 50,
+           "mrp": 50,
+           "unit": "100 g",
+           "inventory": 1,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/5981f9ee-7eb8-4ec3-8467-82f6d206de7d.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Fat Spread",
+         "brand": "Amul Lite",
+         "product_id": "427609",
+         "price": 50,
+         "mrp": 50,
+         "state": "available"
+        }
+       }
+      },
+      {
+       "widget_type": "product_card_snippet_type_2",
+       "data": {
+        "identity": {
+         "id": "427610"
+        },
+        "product_id": "427610",
+        "group_id": 1914957,
+        "name": {
+         "text": "Amul Lite Milk Fat Spread"
+        },
+        "brand_name": {
+         "text": "Amul Lite"
+        },
+        "variant": {
+         "text": "500 g"
+        },
+        "normal_price": {
+         "text": "₹240"
+        },
+        "merchant_id": "40076",
+        "merchant_type": "express",
+        "eta_identifier": "express",
+        "product_state": "out_of_stock",
+        "is_sold_out": false,
+        "inventory": 0,
+        "image": {
+         "url": "https://cdn.grofers.com/da/cms-assets/cms/product/1f93b10f-05c1-4d84-9347-68f480edee4c.png"
+        },
+        "atc_action": {
+         "add_to_cart": {
+          "cart_item": {
+           "product_id": 427610,
+           "merchant_id": 40076,
+           "product_name": "Amul Lite Milk Fat Spread",
+           "price": 240,
+           "mrp": 240,
+           "unit": "500 g",
+           "inventory": 0,
+           "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/1f93b10f-05c1-4d84-9347-68f480edee4c.png"
+          }
+         }
+        }
+       },
+       "tracking": {
+        "common_attributes": {
+         "ptype": "Fat Spread",
+         "brand": "Amul Lite",
+         "product_id": "427610",
+         "price": 240,
+         "mrp": 240,
+         "state": "out_of_stock"
+        }
+       }
+      }
+     ]
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Fat Spread",
+      "brand": "Amul Lite",
+      "product_id": "427609",
+      "price": 50,
+      "mrp": 50,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "529128"
+     },
+     "product_id": "529128",
+     "group_id": 1890527,
+     "name": {
+      "text": "Amul Fresh Butter Cookies"
+     },
+     "brand_name": {
+      "text": "Amul"
+     },
+     "variant": {
+      "text": "200 g"
+     },
+     "normal_price": {
+      "text": "₹85"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 3,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1769779424274-1188.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 529128,
+        "merchant_id": 40076,
+        "product_name": "Amul Fresh Butter Cookies",
+        "price": 85,
+        "mrp": 85,
+        "unit": "200 g",
+        "inventory": 3,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1769779424274-1188.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Butter Cookies",
+      "brand": "Amul",
+      "product_id": "529128",
+      "price": 85,
+      "mrp": 85,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "479676"
+     },
+     "product_id": "479676",
+     "group_id": 643107,
+     "name": {
+      "text": "Milky Mist Chiplet Salted Butter"
+     },
+     "brand_name": {
+      "text": "Milky Mist"
+     },
+     "variant": {
+      "text": "100 g"
+     },
+     "normal_price": {
+      "text": "₹81"
+     },
+     "mrp": {
+      "text": "₹90"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 1,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/a91b3922-72e3-455f-ae7a-41ccef7eca54.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 479676,
+        "merchant_id": 40076,
+        "product_name": "Milky Mist Chiplet Salted Butter",
+        "price": 81,
+        "mrp": 90,
+        "unit": "100 g",
+        "inventory": 1,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/a91b3922-72e3-455f-ae7a-41ccef7eca54.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Salted Butter",
+      "brand": "Milky Mist",
+      "product_id": "479676",
+      "price": 81,
+      "mrp": 90,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "19507"
+     },
+     "product_id": "19507",
+     "group_id": 817062,
+     "name": {
+      "text": "Amul Masti Spiced Salted Buttermilk"
+     },
+     "brand_name": {
+      "text": "Amul"
+     },
+     "variant": {
+      "text": "200 ml"
+     },
+     "normal_price": {
+      "text": "₹15"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 50,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/76a28c0d-0821-40a3-9e5f-8f073ddc5694.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 19507,
+        "merchant_id": 40076,
+        "product_name": "Amul Masti Spiced Salted Buttermilk",
+        "price": 15,
+        "mrp": 15,
+        "unit": "200 ml",
+        "inventory": 50,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/76a28c0d-0821-40a3-9e5f-8f073ddc5694.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Salted Buttermilk",
+      "brand": "Amul",
+      "product_id": "19507",
+      "price": 15,
+      "mrp": 15,
+      "state": "available"
+     }
+    }
+   },
+   {
+    "widget_type": "grid_container_vr",
+    "data": {
+     "items": []
+    }
+   },
+   {
+    "widget_type": "product_card_snippet_type_2",
+    "data": {
+     "identity": {
+      "id": "498972"
+     },
+     "product_id": "498972",
+     "group_id": 3155024,
+     "name": {
+      "text": "Nutralite DoodhShakti Probiotic Salted Butter (Tub)"
+     },
+     "brand_name": {
+      "text": "Nutralite"
+     },
+     "variant": {
+      "text": "500 g"
+     },
+     "normal_price": {
+      "text": "₹309"
+     },
+     "mrp": {
+      "text": "₹325"
+     },
+     "merchant_id": "40076",
+     "merchant_type": "express",
+     "eta_identifier": "express",
+     "product_state": "available",
+     "is_sold_out": false,
+     "inventory": 3,
+     "image": {
+      "url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1784884680302-844.png"
+     },
+     "eta_tag": {
+      "title": {
+       "text": "earliest"
+      },
+      "image": {
+       "url": "http://cdn.grofers.com/assets/eta-icons/15-mins.png"
+      }
+     },
+     "atc_action": {
+      "add_to_cart": {
+       "cart_item": {
+        "product_id": 498972,
+        "merchant_id": 40076,
+        "product_name": "Nutralite DoodhShakti Probiotic Salted Butter (Tub)",
+        "price": 309,
+        "mrp": 325,
+        "unit": "500 g",
+        "inventory": 3,
+        "image_url": "https://cdn.grofers.com/da/cms-assets/cms/product/rc-upload-1784884680302-844.png"
+       }
+      }
+     }
+    },
+    "tracking": {
+     "common_attributes": {
+      "ptype": "Salted Butter",
+      "brand": "Nutralite",
+      "product_id": "498972",
+      "price": 309,
+      "mrp": 325,
+      "state": "available"
+     }
+    }
+   }
+  ],
+  "pagination": {
+   "next_url": "/v1/layout/search?offset=12&limit=12&actual_query=amul+butter&last_snippet_type=product_card_snippet_type_2&last_widget_type=listing_container&page_index=1&q=amul+butter&search_count=24&search_method=basic&search_type=type_to_search&tab_position=0&total_entities_processed=1&total_pagination_items=24"
+  },
+  "tracking": {
+   "le_meta": {
+    "custom_data": {
+     "search_actual_keyword": "amul butter",
+     "search_input_keyword": "amul butter",
+     "search_result_count": "12"
+    }
+   }
+  }
+ }
+}

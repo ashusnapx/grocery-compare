@@ -1,0 +1,8 @@
+{
+ "_note": "The same call before a location is set: no data, no nudge. statusMessage (session JWT) removed.",
+ "data": {
+  "data": null,
+  "statusCode": 101
+ },
+ "statusCode": 0
+}

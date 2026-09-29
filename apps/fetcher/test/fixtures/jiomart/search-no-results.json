@@ -1,0 +1,11 @@
+{
+ "filters": [],
+ "items": [],
+ "page": {
+  "has_previous": false,
+  "has_next": false,
+  "item_total": 0,
+  "type": "cursor",
+  "next_id": "1"
+ }
+}

@@ -1,0 +1,918 @@
+{
+ "_note": "Trimmed from POST bff-gateway.zepto.com/user-search-service/api/v3/search, \"amul butter\", Koramangala, 2026-09-27. Money is paise.",
+ "layout": [
+  {
+   "widgetId": "TITLE_WIDGET",
+   "widgetName": "SEARCH_TITLE_WIDGET",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": []
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_0",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "2c599870-636f-45f0-8dda-3d59aed71869",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 7300,
+         "sellingPrice": 7300,
+         "superSaverSellingPrice": 7300,
+         "mrp": 8500,
+         "outOfStock": false,
+         "availableQuantity": 7,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "Butter",
+         "product": {
+          "id": "53570d13-727a-4827-92cc-ef63e372323a",
+          "name": "Milky Mist Table Butter",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 8500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/d5ed3a6f-0f74-4135-bfdc-0f2876f79b3e.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": "SPONSORED"
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "624b5741-de5e-42db-a513-50ac37814560",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 6500,
+         "sellingPrice": 6500,
+         "superSaverSellingPrice": 6500,
+         "mrp": 6500,
+         "outOfStock": false,
+         "availableQuantity": 4,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "c3648ba9-a9ac-4bfc-b2eb-bf6705578f0a",
+          "name": "Amul Unsalted Cooking Butter",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "1685c097-3845-4e73-be56-9910c3391c0c",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 6500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/238198ac-e000-47e7-a0e4-3b0c3b98cb34.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "9a636eb2-6f42-497c-9260-221a89b7a4ad",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 8100,
+         "sellingPrice": 8100,
+         "superSaverSellingPrice": 8100,
+         "mrp": 9000,
+         "outOfStock": false,
+         "availableQuantity": 11,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "Butter",
+         "product": {
+          "id": "13a0cb77-3900-43c9-8310-ab624d293802",
+          "name": "Milky Mist Butter Chiplet",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+          "formattedPacksize": "1 pack (10 x 10 g)",
+          "mrp": 9000,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/7d87c6fd-c971-4b6b-91e7-a3a9892f6f1a.png"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": "SPONSORED"
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_3",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "ca069db5-be78-46c8-aaf2-7a4c2843e418",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 2500,
+         "sellingPrice": 2500,
+         "superSaverSellingPrice": 2500,
+         "mrp": 2500,
+         "outOfStock": false,
+         "availableQuantity": 19,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "64591a5e-e435-4d1c-a787-4d235b550195",
+          "name": "Delicious Fat Spread - Cholesterol Free",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "e600868b-693e-4f8b-ae63-23aade3cb112",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 2500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/9a6ce510-2ce2-4760-bf45-3f09629d2471.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "6fb6dd9b-6c07-4734-b33b-02a08eac7c1b",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 8300,
+         "sellingPrice": 8300,
+         "superSaverSellingPrice": 8300,
+         "mrp": 8500,
+         "outOfStock": false,
+         "availableQuantity": 2,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "Butter",
+         "product": {
+          "id": "86fc34c4-902f-4ded-ad66-321222a6308b",
+          "name": "Milky Mist Cooking Butter Unsalted",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 8500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/3233a87c-f6dc-4aab-84ec-637d91cbcad9.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": "SPONSORED"
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "0d0034bf-60a5-48bc-89fd-92ff37cd602e",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 32000,
+         "sellingPrice": 32000,
+         "superSaverSellingPrice": 32000,
+         "mrp": 32000,
+         "outOfStock": false,
+         "availableQuantity": 2,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "c3648ba9-a9ac-4bfc-b2eb-bf6705578f0a",
+          "name": "Amul Unsalted Cooking Butter",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "e1f5d8b0-ac7a-42d3-b4fa-17a5f8a99904",
+          "formattedPacksize": "1 pack (500 g)",
+          "mrp": 32000,
+          "packsize": 500,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/9803afd6-4c0e-4e79-b255-4937a303d97f.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "HORIZONTAL_LIST",
+   "widgetName": "ORTHOGONAL_CROSS_SELL_WIDGET",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {},
+       {},
+       {},
+       {}
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_6",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "42ffb9c8-afed-5971-a05f-6d36105865f4",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 15600,
+         "sellingPrice": 15600,
+         "superSaverSellingPrice": 15600,
+         "mrp": 16500,
+         "outOfStock": false,
+         "availableQuantity": 3,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "Butter",
+         "product": {
+          "id": "d5e79672-8b9a-485e-9733-47573a878cba",
+          "name": "Milky Mist Table Butter Tub",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+          "formattedPacksize": "1 pack (200 g)",
+          "mrp": 16500,
+          "packsize": 200,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/cbc99615-b1c3-4cc8-b771-c92279c7647e.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": "SPONSORED"
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "b9d5eec1-c4d2-439b-8531-8371dba046e0",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 11700,
+         "sellingPrice": 11700,
+         "superSaverSellingPrice": 11700,
+         "mrp": 11700,
+         "outOfStock": false,
+         "availableQuantity": 5,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "779ed235-3efe-43d0-b9ff-0febf3dcbfc3",
+          "name": "Delicious Fat Spread - Cholesterol Free",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "98507230-5aaf-46b3-90c2-69c86786a994",
+          "formattedPacksize": "1 pack (500 g)",
+          "mrp": 11700,
+          "packsize": 500,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/a7da26d1-33d9-4d69-8c41-7d614bf57ac9.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "b41c69a1-b419-460d-a643-0774c7fc9078",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 38900,
+         "sellingPrice": 38900,
+         "superSaverSellingPrice": 38900,
+         "mrp": 40000,
+         "outOfStock": false,
+         "availableQuantity": 7,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "Butter",
+         "product": {
+          "id": "86fc34c4-902f-4ded-ad66-321222a6308b",
+          "name": "Milky Mist Cooking Butter Unsalted",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "0acb07c2-6c83-4eab-920a-8b931a7ae72d",
+          "formattedPacksize": "1 pack (500 g)",
+          "mrp": 40000,
+          "packsize": 500,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/5acce062-beb2-4aa3-a8bc-d07b6752ee58.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": "SPONSORED"
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_9",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "21ca9eb9-eba2-5a98-92d8-d1b0b7aae876",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 12500,
+         "sellingPrice": 12500,
+         "superSaverSellingPrice": 12500,
+         "mrp": 12500,
+         "outOfStock": false,
+         "availableQuantity": 2,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "ed8118e6-c648-47db-b221-43d69b6f7441",
+          "name": "Amul Choco Buttery Spread",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "a91b6bf4-a550-4955-af20-0b6d8ba929e6",
+          "formattedPacksize": "1 pack (200 g)",
+          "mrp": 12500,
+          "packsize": 200,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/c895abff-8bad-4d92-9963-3c07f9aaeee9.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "d1daa94b-577a-484e-8814-fbb48b4b7f06",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 5000,
+         "sellingPrice": 5000,
+         "superSaverSellingPrice": 5000,
+         "mrp": 5000,
+         "outOfStock": false,
+         "availableQuantity": 1,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "bd1506cd-95da-4f3d-b5cd-f8dd0fd2b3e0",
+          "name": "Amul Lite Spread",
+          "brand": "Amul"
+         },
+         "productVariant": {
+          "id": "cd685c9c-748b-4ac3-9281-701d66954c65",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 5000,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/e9ddd194-81a7-4b0e-8caa-77f2a0192a52.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "0c3d0225-e730-5bfe-9c98-3de3a0b1922a",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 6500,
+         "sellingPrice": 6500,
+         "superSaverSellingPrice": 6500,
+         "mrp": 7000,
+         "outOfStock": false,
+         "availableQuantity": 28,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "d5823235-ed5d-409e-87cf-c581d5ffa4fe",
+          "name": "Heritage Table Butter",
+          "brand": "Heritage"
+         },
+         "productVariant": {
+          "id": "7b9f1535-30f4-4d8c-92c8-17a4ed39a9b9",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 7000,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/c7773daa-1eca-445e-abb8-691c507721d1.jpg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_12",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "a5a15956-1a99-4b68-9fec-f0741b8723a7",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 33000,
+         "sellingPrice": 33000,
+         "superSaverSellingPrice": 33000,
+         "mrp": 33000,
+         "outOfStock": false,
+         "availableQuantity": 37,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "ebdeef66-712a-49e2-a237-85694c7c6806",
+          "name": "Nandini Cooking Butter Unsalted",
+          "brand": "Nandini"
+         },
+         "productVariant": {
+          "id": "2415c895-1254-46dd-ba39-2eef9d2fd3bf",
+          "formattedPacksize": "1 pack (500 g)",
+          "mrp": 33000,
+          "packsize": 500,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/cc8bef0a-c750-48da-80a2-d0ae278cc42e.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "6fb6dd9b-6c07-4734-b33b-02a08eac7c1b",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 8300,
+         "sellingPrice": 8300,
+         "superSaverSellingPrice": 8300,
+         "mrp": 8500,
+         "outOfStock": false,
+         "availableQuantity": 2,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "86fc34c4-902f-4ded-ad66-321222a6308b",
+          "name": "Milky Mist Cooking Butter Unsalted",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "7616a7d1-abd7-4e30-ae4e-e364710b9bc8",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 8500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/3233a87c-f6dc-4aab-84ec-637d91cbcad9.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "e4fcaa0a-3766-566b-9e4b-751debbed1d2",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 13500,
+         "sellingPrice": 13500,
+         "superSaverSellingPrice": 13500,
+         "mrp": 13500,
+         "outOfStock": false,
+         "availableQuantity": 4,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "50c0ed07-9ff4-494a-aed0-bbdea849150c",
+          "name": "Nandini Unsalted Butter ",
+          "brand": "Nandini"
+         },
+         "productVariant": {
+          "id": "5060b2fc-9d75-42b8-8fd4-274b59c1e5c2",
+          "formattedPacksize": "200 g",
+          "mrp": 13500,
+          "packsize": 200,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/0a755b2e-850e-4f11-bd9f-3f664a14b8c7.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_15",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "9a636eb2-6f42-497c-9260-221a89b7a4ad",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 8100,
+         "sellingPrice": 8100,
+         "superSaverSellingPrice": 8100,
+         "mrp": 9000,
+         "outOfStock": false,
+         "availableQuantity": 11,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "13a0cb77-3900-43c9-8310-ab624d293802",
+          "name": "Milky Mist Butter Chiplet",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "5fe7ad1b-0036-4356-9d18-cda79c1c6f88",
+          "formattedPacksize": "1 pack (10 x 10 g)",
+          "mrp": 9000,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/7d87c6fd-c971-4b6b-91e7-a3a9892f6f1a.png"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "1959bf11-6cfc-5d77-8e39-867a99cfa0c5",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 11300,
+         "sellingPrice": 11300,
+         "superSaverSellingPrice": 11300,
+         "mrp": 11400,
+         "outOfStock": false,
+         "availableQuantity": 2,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "e5adc906-8f89-4ebb-b6b7-bcf426e951c2",
+          "name": "Akshayakalpa Organic Unsalted Cooking Butter",
+          "brand": "Akshayakalpa"
+         },
+         "productVariant": {
+          "id": "9735d632-cbce-4790-8db7-f7bf3d38c5c9",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 11400,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/1df4a574-e884-4c74-a061-f708a2d5572a.jpg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "42ffb9c8-afed-5971-a05f-6d36105865f4",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 15600,
+         "sellingPrice": 15600,
+         "superSaverSellingPrice": 15600,
+         "mrp": 16500,
+         "outOfStock": false,
+         "availableQuantity": 3,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "d5e79672-8b9a-485e-9733-47573a878cba",
+          "name": "Milky Mist Table Butter Tub",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "a3cc11d8-a12d-4ffe-a005-114bcab2ed5b",
+          "formattedPacksize": "1 pack (200 g)",
+          "mrp": 16500,
+          "packsize": 200,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/cbc99615-b1c3-4cc8-b771-c92279c7647e.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  },
+  {
+   "widgetId": "PRODUCT_GRID",
+   "widgetName": "SEARCHED_PRODUCTS_18",
+   "data": {
+    "resolver": {
+     "data": {
+      "items": [
+       {
+        "productResponse": {
+         "id": "2c599870-636f-45f0-8dda-3d59aed71869",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 7300,
+         "sellingPrice": 7300,
+         "superSaverSellingPrice": 7300,
+         "mrp": 8500,
+         "outOfStock": false,
+         "availableQuantity": 7,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "53570d13-727a-4827-92cc-ef63e372323a",
+          "name": "Milky Mist Table Butter",
+          "brand": "Milky Mist"
+         },
+         "productVariant": {
+          "id": "18fa8072-a91b-4cb7-ab28-c9f7a0d1404f",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 8500,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/d5ed3a6f-0f74-4135-bfdc-0f2876f79b3e.jpeg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "407ffb73-d1cd-409f-8f34-52b25853e59e",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 5800,
+         "sellingPrice": 5800,
+         "superSaverSellingPrice": 5800,
+         "mrp": 6300,
+         "outOfStock": false,
+         "availableQuantity": 1,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "b7eb6226-9f05-48fe-9b34-522a8b2e7e31",
+          "name": "Nutralite Doodhshakti Probiotic Butter Spread",
+          "brand": "Nutralite"
+         },
+         "productVariant": {
+          "id": "b10d82d4-24a8-4176-ab10-d565ce63e2c1",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 6300,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/1c0a82c6-6c88-46cb-bc54-144aebd7aa2e.jpg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       },
+       {
+        "productResponse": {
+         "id": "6df4288c-8d3c-42b1-9ccc-7d9161d657f3",
+         "storeId": "796c71f3-568e-4d6d-8767-87285ad4f23a",
+         "discountedSellingPrice": 5800,
+         "sellingPrice": 5800,
+         "superSaverSellingPrice": 5800,
+         "mrp": 6200,
+         "outOfStock": false,
+         "availableQuantity": 4,
+         "primaryCategoryName": "Dairy, Bread & Eggs",
+         "primarySubcategoryName": "",
+         "product": {
+          "id": "ff81263e-0655-46b3-a66c-6f5bb2ff1320",
+          "name": "Nutralite Activ Fat Spread Omega 3",
+          "brand": "Nutralite"
+         },
+         "productVariant": {
+          "id": "44eff39d-5e2f-4d80-b482-6e65fa0fb165",
+          "formattedPacksize": "1 pack (100 g)",
+          "mrp": 6200,
+          "packsize": 100,
+          "unitOfMeasure": "GRAM",
+          "images": [
+           {
+            "path": "cms/product_variant/474bd979-f513-4e87-841e-5fb9b784dcf2.jpg"
+           }
+          ]
+         },
+         "meta": {
+          "tags": [
+           {
+            "type": ""
+           }
+          ]
+         }
+        }
+       }
+      ]
+     }
+    }
+   }
+  }
+ ],
+ "pageProductCount": 27,
+ "totalProductCount": 234,
+ "currentPage": 0,
+ "hasReachedEnd": false
+}

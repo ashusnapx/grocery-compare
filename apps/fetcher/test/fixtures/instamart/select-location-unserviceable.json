@@ -1,0 +1,25 @@
+{
+ "_note": "POST .../select-location/v2 at 22.3345,80.6115 (Kanha National Park), 2026-09-27, requestId removed.",
+ "data": {
+  "statusMessage": "",
+  "pageOffset": null,
+  "cards": [],
+  "communication": {
+   "swiggyNotPresent": {
+    "swiggyNotPresent": true
+   }
+  },
+  "firstOffsetRequest": true,
+  "ribbons": [],
+  "cacheExpiryTime": 0,
+  "nextFetch": 0,
+  "configs": {},
+  "hasFooter": false,
+  "encodedIrctcInfo": "",
+  "searchResultsOffset": "0",
+  "isOnboarded": false,
+  "poiType": "",
+  "statusCode": 0
+ },
+ "statusCode": 0
+}
