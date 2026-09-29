@@ -123,7 +123,7 @@ node scripts/flow-check.mjs /tmp/f        # zero-tap flows: shared link, returni
 
 ```
 apps/web          Next.js app (Vercel)
-apps/fetcher      platform worker (Docker, small VPS in India)
+apps/fetcher      platform worker: in-process on Vercel, or standalone (Docker) on a home connection
 packages/engine   pure TypeScript: quantities, matching, fills, fees, optimizer
 docs/             spec, research, fee checklist
 ```
@@ -204,6 +204,20 @@ production URL is used automatically), optionally `GOOGLE_SITE_VERIFICATION`
 and `BING_SITE_VERIFICATION`, then add the site in Google Search Console and
 Bing Webmaster Tools and submit `https://<domain>/sitemap.xml`.
 
+## Where prices are fetched from
+
+With no `FETCHER_URL` (the Vercel default), the web server runs the searches
+itself (`@gc/fetcher/inline`). Checked from Vercel's Mumbai region on
+2026-09-29: JioMart and BigBasket answer; Blinkit and DMart refuse cloud IPs
+(HTTP 403); Zepto and Instamart need a real Chromium page, which a serverless
+function doesn't have, so they show as "skipped".
+
+For all six, run the fetcher on a home (residential) connection and point the
+site at it with `FETCHER_URL` plus a long random `FETCHER_SECRET`, set to the
+same value on both sides. When that worker is unreachable, errors or has no
+secret, the site falls back to searching itself, so it never loses more than
+the apps only the worker can reach.
+
 ## Going live with account logins
 
 Localhost works as is. For a public domain, each app must allow its
@@ -211,6 +225,8 @@ Localhost works as is. For a public domain, each app must allow its
 
 - Zepto: open an issue on [zeptonow/mcp](https://github.com/zeptonow/mcp/issues)
   asking to whitelist the redirect URI (others have done the same).
+  Until then its sign-up refuses other domains ("not from allowed domains",
+  checked 2026-09-29); Swiggy's accepted `jhola-weld.vercel.app/callback`.
 - Swiggy Instamart: join the Swiggy Builders Club
   ([quickstart](https://mcp.swiggy.com/builders/docs/start/developer/)); production
   access follows a validated staging integration, and redirect URIs are

@@ -1,7 +1,13 @@
 import { DEV_FETCHER_SECRET, isPlatformId, type PlatformId } from '@gc/engine';
 
-/** Where the fetch worker lives. Local dev runs it on 4100 via `npm run dev`. */
-export const FETCHER_URL = process.env.FETCHER_URL ?? 'http://localhost:4100';
+/**
+ * Where the fetch worker lives. Local dev runs it on 4100 via `npm run dev`.
+ * Null (unset in production, or "inline"): this server runs the searches
+ * itself, for every app that needs no browser (see @gc/fetcher/inline).
+ */
+const configured = process.env.FETCHER_URL?.trim();
+export const FETCHER_URL: string | null =
+  configured === 'inline' ? null : configured || (process.env.NODE_ENV === 'production' ? null : 'http://localhost:4100');
 
 export const FETCHER_SECRET =
   process.env.FETCHER_SECRET ?? (process.env.NODE_ENV === 'production' ? '' : DEV_FETCHER_SECRET);

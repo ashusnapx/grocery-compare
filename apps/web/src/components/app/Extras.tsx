@@ -12,6 +12,7 @@ const STATUS_WHY: Record<PlatformStatus, string> = {
   blocked: 'blocked us',
   timeout: 'too slow',
   unserviceable: 'doesn’t deliver here',
+  unavailable: 'isn’t checked on the web yet',
   error: 'had a hiccup',
 };
 

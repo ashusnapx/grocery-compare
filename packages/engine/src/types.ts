@@ -84,7 +84,8 @@ export interface Listing {
   fetchedAt: string;
 }
 
-export type PlatformStatus = 'ok' | 'no_results' | 'blocked' | 'timeout' | 'unserviceable' | 'error';
+/** `unavailable`: not asked at all, because this server can't reach the app (it needs a real browser, and there is none here). */
+export type PlatformStatus = 'ok' | 'no_results' | 'blocked' | 'timeout' | 'unserviceable' | 'unavailable' | 'error';
 
 export interface StoreInfo {
   storeId: string;

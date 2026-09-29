@@ -1,6 +1,6 @@
 'use client';
 
-import { CheckCircleIcon, ProhibitIcon, SpinnerGapIcon, TimerIcon, WarningCircleIcon, MapPinSimpleIcon } from '@phosphor-icons/react';
+import { CheckCircleIcon, MinusCircleIcon, ProhibitIcon, SpinnerGapIcon, TimerIcon, WarningCircleIcon, MapPinSimpleIcon } from '@phosphor-icons/react';
 import { PLATFORMS, type PlatformId, type PlatformStatus } from '@gc/engine';
 import type { PlatformResult } from '@/lib/compare-types';
 import type { CompareState, Phase } from './GroceryApp';
@@ -12,6 +12,7 @@ const STATUS_SHORT: Record<PlatformStatus, string> = {
   blocked: 'blocked',
   timeout: 'slow',
   unserviceable: 'no delivery',
+  unavailable: 'skipped',
   error: 'error',
 };
 
@@ -21,6 +22,7 @@ const STATUS_LONG: Record<PlatformStatus, string> = {
   blocked: 'blocked our request',
   timeout: 'too slow to answer',
   unserviceable: 'doesn’t deliver here',
+  unavailable: 'isn’t checked on the web yet',
   error: 'couldn’t load',
 };
 
@@ -45,6 +47,8 @@ function StatusIcon({ status }: { status: PlatformStatus | 'waiting' }) {
       return <TimerIcon size={14} aria-hidden />;
     case 'unserviceable':
       return <MapPinSimpleIcon size={14} aria-hidden />;
+    case 'unavailable':
+      return <MinusCircleIcon size={14} aria-hidden />;
     default:
       return <WarningCircleIcon size={14} aria-hidden />;
   }
@@ -58,6 +62,7 @@ function tone(status: PlatformStatus | 'waiting'): string {
     case 'waiting':
       return 'border-line bg-card text-muted';
     case 'no_results':
+    case 'unavailable':
       return 'border-line bg-soft text-muted';
     case 'unserviceable':
       return 'border-bad-line bg-bad-soft text-bad';

@@ -1,4 +1,4 @@
-import { chromium, type Browser, type BrowserContext, type Page, type Response } from 'playwright';
+import type { Browser, BrowserContext, Page, Response } from 'playwright';
 import { BlockedError, TimeoutError } from '../errors';
 import { assertNotBlocked } from './detect';
 
@@ -75,6 +75,9 @@ function userAgentFor(version: string): string {
 }
 
 async function launch(): Promise<Browser> {
+  // Loaded here, not at the top: hosts that never launch a browser (the web app
+  // running searches in-process) never load Playwright either.
+  const { chromium } = await import('playwright');
   const args = ['--disable-blink-features=AutomationControlled'];
   try {
     // The full Chromium build; headless here means Chrome's new headless mode.
